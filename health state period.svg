@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 702 257" aria-labelledby="title desc" role="img"><title id="title">UML Class Diagram of health state period and related concepts</title><desc  id="desc">An UML Class Diagram of the concept health state period and the concepts related to it.</desc><!-- Generalisations of the Focal Class health state period
  -->
 <g><!-- health related period -->
-<a xlink:href="health related period.svg"><rect x="297" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>time interval related to the health or care of a subject of care</title></rect><text x="351" y="20" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="20"  text-anchor="middle">health related</tspan><tspan x="351" y="34"  text-anchor="middle">period</tspan></text>
+<a xlink:href="health related period.svg" role="link"><rect x="297" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>time interval related to the health or care of a subject of care</title></rect><text x="351" y="20" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="20"  text-anchor="middle">health related</tspan><tspan x="351" y="34"  text-anchor="middle">period</tspan></text>
 </a></g>
 <!-- (351,135) to (351,62) health state period has generalization health related period -->
 <line x1="351" y1="135" x2="351" y2="115" stroke="black" stroke-width="2" /><line x1="351" y1="62" x2="351" y2="115" stroke="black" stroke-width="2" /><line x1="351" y1="115" x2="351" y2="115" stroke="black" stroke-width="2" /><polygon points="351,62 346,72 356,72" fill="white" stroke="black" stroke-width="2" /><g> <!-- Association health condition observed during health state period -->
@@ -11,7 +11,7 @@
 
 </g>
 <g><!-- health condition -->
-<a xlink:href="health condition.svg"><rect x="10" y="135" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>aspect of a health state</title></rect><text x="64" y="145" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="145"  text-anchor="middle">health condition</tspan></text>
+<a xlink:href="health condition.svg" role="link"><rect x="10" y="135" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>aspect of a health state</title></rect><text x="64" y="145" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="145"  text-anchor="middle">health condition</tspan></text>
 </a></g>
 <g> <!-- Association observed condition has been observed during health state period -->
 <line x1="118" y1="220" x2="297" y2="220" stroke="black" stroke-width="2" /><text x="130" y="213" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="213"  text-anchor="middle">1..*</tspan></text>
@@ -20,9 +20,9 @@
 
 </g>
 <g><!-- observed condition -->
-<a xlink:href="observed condition.svg"><rect x="10" y="195" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>health condition observed by a care actor</title></rect><text x="64" y="205" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="205"  text-anchor="middle">observed condition</tspan></text>
+<a xlink:href="observed condition.svg" role="link"><rect x="10" y="195" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>health condition observed by a care actor</title></rect><text x="64" y="205" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="205"  text-anchor="middle">observed condition</tspan></text>
 </a></g>
 <g><!-- health state period -->
-<a xlink:href="health state period.svg"><rect x="297" y="135" width="108" height="120" fill="white" stroke="black" stroke-width="2" ><title>health related period during which a health condition has been observed</title></rect><text x="351" y="145" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="145"  text-anchor="middle">health state</tspan><tspan x="351" y="159"  text-anchor="middle">period</tspan></text>
+<a xlink:href="health state period.svg" role="link"><rect x="297" y="135" width="108" height="120" fill="white" stroke="black" stroke-width="2" ><title>health related period during which a health condition has been observed</title></rect><text x="351" y="145" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="145"  text-anchor="middle">health state</tspan><tspan x="351" y="159"  text-anchor="middle">period</tspan></text>
 </a></g>
 </svg>
