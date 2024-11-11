@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 702 382"><!-- Generalisations of the Focal Class clinical report
+ -->
+<g><!-- health record extract -->
+<a xlink:href="health record extract.svg"><rect x="297" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>part or all of a health record extracted for the purpose of communication</title></rect><text x="351" y="20" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="20"  text-anchor="middle">health record</tspan><tspan x="351" y="34"  text-anchor="middle">extract</tspan></text>
+</a></g>
+<!-- (351,135) to (351,62) clinical report has generalization health record extract -->
+<line x1="351" y1="135" x2="351" y2="115" stroke="black" stroke-width="2" /><line x1="351" y1="62" x2="351" y2="115" stroke="black" stroke-width="2" /><line x1="351" y1="115" x2="351" y2="115" stroke="black" stroke-width="2" /><polygon points="351,62 346,72 356,72" fill="white" stroke="black" stroke-width="2" /><g> <!-- Association care actor sends out clinical report clinical report -->
+<line x1="118" y1="160" x2="297" y2="160" stroke="black" stroke-width="2" /><text x="130" y="153" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="153"  text-anchor="middle">1..*</tspan></text>
+<text x="287" y="153" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="287" y="153"  text-anchor="middle">0..*</tspan></text>
+<text x="207" y="174" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="207" y="174"  text-anchor="middle">sends out clinical report</tspan></text>
+
+</g>
+<g> <!-- Association care actor receives clinical report clinical report -->
+<line x1="118" y1="210" x2="297" y2="210" stroke="black" stroke-width="2" /><text x="130" y="203" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="203"  text-anchor="middle">1..*</tspan></text>
+<text x="287" y="203" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="287" y="203"  text-anchor="middle">0..*</tspan></text>
+<text x="207" y="224" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="207" y="224"  text-anchor="middle">receives clinical report</tspan></text>
+
+</g>
+<g><!-- care actor -->
+<a xlink:href="care actor.svg"><rect x="10" y="135" width="108" height="100" fill="whitesmoke" stroke="black" stroke-width="2" ><title>organization or person participating in care</title></rect><text x="64" y="145" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="145"  text-anchor="middle">care actor</tspan></text>
+</a></g>
+<g> <!-- Association clinical report is received as non-ratified care information -->
+<line x1="405" y1="170" x2="584" y2="170" stroke="black" stroke-width="2" /><text x="417" y="163" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="163"  text-anchor="middle">0..*</tspan></text>
+<text x="565" y="163" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="163"  text-anchor="middle">0..*</tspan></text>
+<text x="494" y="184" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="184"  text-anchor="middle">is received as</tspan></text>
+</g>
+<g><!-- non-ratified care information -->
+<a xlink:href="non-ratified care information.svg"><rect x="584" y="145" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>care information the relevance of which has not been assessed and explicitly stated as valid by a care professional</title></rect><text x="638" y="155" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="155"  text-anchor="middle">non-ratified</tspan><tspan x="638" y="169"  text-anchor="middle">care information</tspan></text>
+</a></g>
+<g><!-- clinical report -->
+<a xlink:href="clinical report.svg"><rect x="297" y="135" width="108" height="110" fill="white" stroke="black" stroke-width="2" ><title>health record extract conveying specifically focused care information in order to fulfil current information needs of the recipient</title></rect><text x="351" y="145" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="145"  text-anchor="middle">clinical report</tspan></text>
+</a></g>
+<!-- (117,322) to (351,247) social care report has generalization clinical report -->
+<line x1="117" y1="322" x2="117" y2="302" stroke="black" stroke-width="2" /><line x1="351" y1="247" x2="351" y2="302" stroke="black" stroke-width="2" /><line x1="117" y1="302" x2="351" y2="302" stroke="black" stroke-width="2" /><polygon points="351,247 346,257 356,257" fill="white" stroke="black" stroke-width="2" /><g><!-- social care report -->
+<a xlink:href="social care report.svg"><rect x="63" y="322" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>social record extract conveying specifically focused social care information in order to fulfil current information needs of the recipient</title></rect><text x="117" y="332" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="117" y="332"  text-anchor="middle">social care report</tspan></text>
+</a></g>
+<!-- (351,322) to (351,247) discharge report has generalization clinical report -->
+<line x1="351" y1="322" x2="351" y2="302" stroke="black" stroke-width="2" /><line x1="351" y1="247" x2="351" y2="302" stroke="black" stroke-width="2" /><line x1="351" y1="302" x2="351" y2="302" stroke="black" stroke-width="2" /><polygon points="351,247 346,257 356,257" fill="white" stroke="black" stroke-width="2" /><g><!-- discharge report -->
+<a xlink:href="discharge report.svg"><rect x="297" y="322" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>clinical report concerning a completed, mandated period of care </title></rect><text x="351" y="332" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="332"  text-anchor="middle">discharge report</tspan></text>
+</a></g>
+<!-- (585,322) to (351,247) specific care information request has generalization clinical report -->
+<line x1="585" y1="322" x2="585" y2="302" stroke="black" stroke-width="2" /><line x1="351" y1="247" x2="351" y2="302" stroke="black" stroke-width="2" /><line x1="585" y1="302" x2="351" y2="302" stroke="black" stroke-width="2" /><polygon points="351,247 346,257 356,257" fill="white" stroke="black" stroke-width="2" /><g><!-- specific care information request -->
+<a xlink:href="specific care information request.svg"><rect x="531" y="322" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>official document issued by a care actor attesting health condition relating to a subject of care</title></rect><text x="585" y="332" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="585" y="332"  text-anchor="middle">specific care</tspan><tspan x="585" y="346"  text-anchor="middle">information request</tspan></text>
+</a></g>
+</svg>

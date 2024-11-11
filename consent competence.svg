@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 702 377"><!-- Generalisations of the Focal Class consent competence
+ -->
+<g><!-- health circumstance -->
+<a xlink:href="health circumstance.svg"><rect x="297" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>circumstance contributing to the health state of a person</title></rect><text x="351" y="20" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="20"  text-anchor="middle">health circumstance</tspan></text>
+</a></g>
+<!-- (351,135) to (351,62) consent competence has generalization health circumstance -->
+<line x1="351" y1="135" x2="351" y2="115" stroke="black" stroke-width="2" /><line x1="351" y1="62" x2="351" y2="115" stroke="black" stroke-width="2" /><line x1="351" y1="115" x2="351" y2="115" stroke="black" stroke-width="2" /><polygon points="351,62 346,72 356,72" fill="white" stroke="black" stroke-width="2" /><g> <!-- Association informed consent requires consent competence -->
+<line x1="118" y1="160" x2="297" y2="160" stroke="black" stroke-width="2" /><text x="130" y="153" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="153"  text-anchor="middle">1..*</tspan></text>
+<text x="287" y="153" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="287" y="153"  text-anchor="middle">1</tspan></text>
+<text x="207" y="174" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="207" y="174"  text-anchor="middle">requires</tspan></text>
+
+</g>
+<g><!-- informed consent -->
+<a xlink:href="informed consent.svg"><rect x="10" y="135" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>permission to perform care activities, voluntarily given by a subject of care with consent competence or by a subject of care proxy with consent competence, after having been informed about the purpose and the possible results of the care activities</title></rect><text x="64" y="145" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="145"  text-anchor="middle">informed consent</tspan></text>
+</a></g>
+<g> <!-- Association subject of care proxy has consent competence -->
+<line x1="118" y1="220" x2="297" y2="220" stroke="black" stroke-width="2" /><text x="130" y="213" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="213"  text-anchor="middle">0..*</tspan></text>
+<text x="287" y="213" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="287" y="213"  text-anchor="middle">0..1</tspan></text>
+<text x="207" y="234" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="207" y="234"  text-anchor="middle">has</tspan></text>
+
+</g>
+<g><!-- subject of care proxy -->
+<a xlink:href="subject of care proxy.svg"><rect x="10" y="195" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>person with authority to take decisions on behalf of a subject of care</title></rect><text x="64" y="205" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="205"  text-anchor="middle">subject of care</tspan><tspan x="64" y="219"  text-anchor="middle">proxy</tspan></text>
+</a></g>
+<g> <!-- Association objection requires consent competence -->
+<line x1="118" y1="280" x2="297" y2="280" stroke="black" stroke-width="2" /><text x="130" y="273" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="273"  text-anchor="middle">1..*</tspan></text>
+<text x="287" y="273" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="287" y="273"  text-anchor="middle">1</tspan></text>
+<text x="207" y="294" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="207" y="294"  text-anchor="middle">requires</tspan></text>
+
+</g>
+<g><!-- objection -->
+<a xlink:href="objection.svg"><rect x="10" y="255" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>subject of care desire that specific care activities are not performed</title></rect><text x="64" y="265" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="265"  text-anchor="middle">objection</tspan></text>
+</a></g>
+<g> <!-- Association subject of care has consent competence -->
+<line x1="118" y1="340" x2="297" y2="340" stroke="black" stroke-width="2" /><text x="130" y="333" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="333"  text-anchor="middle">1</tspan></text>
+<text x="287" y="333" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="287" y="333"  text-anchor="middle">0..1</tspan></text>
+<text x="207" y="354" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="207" y="354"  text-anchor="middle">has</tspan></text>
+
+</g>
+<g><!-- subject of care -->
+<a xlink:href="subject of care.svg"><rect x="10" y="315" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>person seeking to receive, receiving, or having received care</title></rect><text x="64" y="325" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="325"  text-anchor="middle">subject of care</tspan></text>
+</a></g>
+<g><!-- consent competence -->
+<a xlink:href="consent competence.svg"><rect x="297" y="135" width="108" height="240" fill="white" stroke="black" stroke-width="2" ><title>capability of the subject of care and/or the subject of care proxy to give or withhold informed consent</title></rect><text x="351" y="145" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="145"  text-anchor="middle">consent competence</tspan></text>
+</a></g>
+</svg>
