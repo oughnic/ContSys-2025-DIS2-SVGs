@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 702 187"><title>UML Class Diagram of social need and related concepts</title><desc>An UML Class Diagram of the concept social need and the concepts related to it.</desc><!-- Generalisations of the Focal Class social need
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 702 187 aria-labelledby="title desc" role="img""><title id="title">UML Class Diagram of social need and related concepts</title><desc  id="desc">An UML Class Diagram of the concept social need and the concepts related to it.</desc><!-- Generalisations of the Focal Class social need
  -->
 <g><!-- health need -->
 <a xlink:href="health need.svg"><rect x="297" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>health circumstance causing a deficit in the current health state compared to aspects of a desired future health</title></rect><text x="351" y="20" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="20"  text-anchor="middle">health need</tspan></text>

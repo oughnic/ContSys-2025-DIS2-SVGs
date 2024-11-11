@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 702 197"><title>UML Class Diagram of knowledge and related concepts</title><desc>An UML Class Diagram of the concept knowledge and the concepts related to it.</desc><g><!-- knowledge -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 702 197 aria-labelledby="title desc" role="img""><title id="title">UML Class Diagram of knowledge and related concepts</title><desc  id="desc">An UML Class Diagram of the concept knowledge and the concepts related to it.</desc><g><!-- knowledge -->
 <a xlink:href="knowledge.svg"><rect x="297" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>maintained, processed, and interpreted information</title></rect><text x="351" y="20" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="20"  text-anchor="middle">knowledge</tspan></text>
 </a></g>
 <!-- (87,137) to (351,62) care guideline has generalization knowledge -->
