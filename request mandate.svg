@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 702 327"><!-- Generalisations of the Focal Class request mandate
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 702 327"><title>UML Class Diagram of request mandate and related classes</title><!-- Generalisations of the Focal Class request mandate
  -->
 <g><!-- care mandate -->
 <a xlink:href="care mandate.svg"><rect x="297" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>mandate (commission) based on a commitment and either an informed consent or an authorization by law, defining the rights and obligations of one care actor with regard to his involvement in care processes performed for a specific subject of care</title></rect><text x="351" y="20" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="20"  text-anchor="middle">care mandate</tspan></text>

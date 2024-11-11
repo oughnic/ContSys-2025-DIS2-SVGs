@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 702 422"><!-- Generalisations of the Focal Class care personnel
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 702 422"><title>UML Class Diagram of care personnel and related classes</title><!-- Generalisations of the Focal Class care personnel
  -->
 <g><!-- care resource -->
 <a xlink:href="care resource.svg"><rect x="179" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>resource needed to perform care activities</title></rect><text x="233" y="20" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="233" y="20"  text-anchor="middle">care resource</tspan></text>
