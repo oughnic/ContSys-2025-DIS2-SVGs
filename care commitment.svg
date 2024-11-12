@@ -5,7 +5,7 @@
 
 </g>
 <g><!-- care provider -->
-<a xlink:href="care provider.svg" role="link"><rect x="10" y="10" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>care actor that is able to be assigned one or more care period mandates</title></rect><text x="64" y="20" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="20"  text-anchor="middle">care provider</tspan></text>
+<a xlink:href="care provider.svg" role="link"><rect x="10" y="10" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>care actor that is able to be assigned one or more care period mandates</title></rect><text x="64" y="30" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="30"  text-anchor="middle">care provider</tspan></text>
 </a></g>
 <g> <!-- Association care mandate requires care commitment care commitment -->
 <line x1="118" y1="95" x2="297" y2="95" stroke="black" stroke-width="2" /><text x="130" y="88" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="88"  text-anchor="middle">1..*</tspan></text>
@@ -14,7 +14,7 @@
 
 </g>
 <g><!-- care mandate -->
-<a xlink:href="care mandate.svg" role="link"><rect x="10" y="70" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>mandate (commission) based on a commitment and either an informed consent or an authorization by law, defining the rights and obligations of one care actor with regard to his involvement in care processes performed for a specific subject of care</title></rect><text x="64" y="80" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="80"  text-anchor="middle">care mandate</tspan></text>
+<a xlink:href="care mandate.svg" role="link"><rect x="10" y="70" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>mandate (commission) based on a commitment and either an informed consent or an authorization by law, defining the rights and obligations of one care actor with regard to his involvement in care processes performed for a specific subject of care</title></rect><text x="64" y="90" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="90"  text-anchor="middle">care mandate</tspan></text>
 </a></g>
 <g> <!-- Association referral asks for care commitment -->
 <line x1="118" y1="155" x2="297" y2="155" stroke="black" stroke-width="2" /><text x="130" y="148" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="148"  text-anchor="middle">1</tspan></text>
@@ -23,7 +23,7 @@
 
 </g>
 <g><!-- referral -->
-<a xlink:href="referral.svg" role="link"><rect x="10" y="130" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>request for care where a care professional asks a care provider to state a care commitment for a care period mandate</title></rect><text x="64" y="140" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="140"  text-anchor="middle">referral</tspan></text>
+<a xlink:href="referral.svg" role="link"><rect x="10" y="130" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>request for care where a care professional asks a care provider to state a care commitment for a care period mandate</title></rect><text x="64" y="150" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="150"  text-anchor="middle">referral</tspan></text>
 </a></g>
 <g> <!-- Association care commitment relates to the provision of care activity -->
 <line x1="405" y1="35" x2="584" y2="35" stroke="black" stroke-width="2" /><text x="417" y="28" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="28"  text-anchor="middle">1</tspan></text>
@@ -31,9 +31,9 @@
 <text x="494" y="49" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="49"  text-anchor="middle">relates to the provision</tspan><tspan x="494" y="63"  text-anchor="middle">of</tspan></text>
 </g>
 <g><!-- care activity -->
-<a xlink:href="care activity.svg" role="link"><rect x="584" y="10" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>activity intended to improve or maintain a health state </title></rect><text x="638" y="20" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="20"  text-anchor="middle">care activity</tspan></text>
+<a xlink:href="care activity.svg" role="link"><rect x="584" y="10" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>activity intended to improve or maintain a health state </title></rect><text x="638" y="30" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="30"  text-anchor="middle">care activity</tspan></text>
 </a></g>
 <g><!-- care commitment -->
-<a xlink:href="care commitment.svg" role="link"><rect x="297" y="10" width="108" height="180" fill="white" stroke="black" stroke-width="2" ><title>acceptance of a care request</title></rect><text x="351" y="20" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="20"  text-anchor="middle">care commitment</tspan></text>
+<a xlink:href="care commitment.svg" role="link"><rect x="297" y="10" width="108" height="180" fill="white" stroke="black" stroke-width="2" ><title>acceptance of a care request</title></rect><text x="351" y="30" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="30"  text-anchor="middle">care commitment</tspan></text>
 </a></g>
 </svg>
