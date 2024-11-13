@@ -20,7 +20,7 @@
 
 </g>
 <g><!-- subject of care desire -->
-<a xlink:href="subject of care desire.svg" role="link"><rect x="10" y="205" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>desire expressed by the subject of care or the subject of care proxy regarding the performance of certain care activities</title></rect><text x="64" y="225" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="225"  text-anchor="middle">subject of care</tspan><tspan x="64" y="239"  text-anchor="middle">desire</tspan></text>
+<a xlink:href="subject of care desire.svg" role="link"><rect x="10" y="205" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>desire expressed by the subject of care or the subject of care proxy regarding the performance of certain care activities</title></rect><text x="64" y="225" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="225"  text-anchor="middle">subject of care desire</tspan></text>
 </a></g>
 <g> <!-- Association objection limits care mandate -->
 <line x1="118" y1="290" x2="297" y2="290" stroke="black" stroke-width="2" /><text x="130" y="283" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="283"  text-anchor="middle">0..*</tspan></text>
@@ -33,20 +33,20 @@
 </a></g>
 <g> <!-- Association care mandate requires authorization by law -->
 <line x1="405" y1="160" x2="584" y2="160" stroke="black" stroke-width="2" /><text x="417" y="153" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="153"  text-anchor="middle">0..*</tspan></text>
-<text x="565" y="153" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="153"  text-anchor="middle">0..1</tspan></text>
+<text x="570" y="153" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="570" y="153"  text-anchor="middle">0..1</tspan></text>
 <text x="494" y="174" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="174"  text-anchor="middle">requires</tspan></text>
 </g>
 <g><!-- authorization by law -->
-<a xlink:href="authorization by law.svg" role="link"><rect x="584" y="135" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>provision in legislation that in certain circumstances may overrule the need for informed consent</title></rect><text x="638" y="155" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="155"  text-anchor="middle">authorization</tspan><tspan x="638" y="169"  text-anchor="middle">by law</tspan></text>
+<a xlink:href="authorization by law.svg" role="link"><rect x="584" y="135" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>provision in legislation that in certain circumstances may overrule the need for informed consent</title></rect><text x="638" y="155" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="155"  text-anchor="middle">authorization by law</tspan></text>
 </a></g>
 <g> <!-- Association care mandate implies access to health record -->
 <line x1="405" y1="230" x2="584" y2="230" stroke="black" stroke-width="2" /><text x="417" y="223" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="223"  text-anchor="middle">1..*</tspan></text>
-<text x="565" y="223" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="223"  text-anchor="middle">0..*</tspan></text>
+<text x="571" y="223" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="223"  text-anchor="middle">0..*</tspan></text>
 <text x="494" y="244" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="244"  text-anchor="middle">implies access to</tspan></text>
 </g>
 <g> <!-- Association care mandate is recorded in health record -->
 <line x1="405" y1="280" x2="584" y2="280" stroke="black" stroke-width="2" /><text x="417" y="273" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="273"  text-anchor="middle">0..*</tspan></text>
-<text x="565" y="273" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="273"  text-anchor="middle">0..*</tspan></text>
+<text x="571" y="273" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="273"  text-anchor="middle">0..*</tspan></text>
 <text x="494" y="294" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="294"  text-anchor="middle">is recorded in</tspan></text>
 </g>
 <g><!-- health record -->
@@ -62,7 +62,7 @@
 </a></g>
 <g> <!-- Association care mandate regulates care process -->
 <line x1="405" y1="400" x2="584" y2="400" stroke="black" stroke-width="2" /><text x="417" y="393" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="393"  text-anchor="middle">1..*</tspan></text>
-<text x="565" y="393" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="393"  text-anchor="middle">1..*</tspan></text>
+<text x="571" y="393" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="393"  text-anchor="middle">1..*</tspan></text>
 <text x="494" y="414" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="414"  text-anchor="middle">regulates</tspan></text>
 </g>
 <g><!-- care process -->
@@ -78,7 +78,7 @@
 </a></g>
 <g> <!-- Association care mandate requires informed consent informed consent -->
 <line x1="405" y1="520" x2="584" y2="520" stroke="black" stroke-width="2" /><text x="417" y="513" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="513"  text-anchor="middle">0..*</tspan></text>
-<text x="565" y="513" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="513"  text-anchor="middle">0..*</tspan></text>
+<text x="571" y="513" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="513"  text-anchor="middle">0..*</tspan></text>
 <text x="494" y="534" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="534"  text-anchor="middle">requires informed consent</tspan></text>
 </g>
 <g><!-- informed consent -->
@@ -118,6 +118,6 @@
 </a></g>
 <!-- (630,762) to (351,687) care activity mandate has generalization care mandate -->
 <line x1="630" y1="762" x2="630" y2="742" stroke="black" stroke-width="2" /><line x1="351" y1="687" x2="351" y2="742" stroke="black" stroke-width="2" /><line x1="630" y1="742" x2="351" y2="742" stroke="black" stroke-width="2" /><polygon points="351,687 346,697 356,697" fill="white" stroke="black" stroke-width="2" /><g><!-- care activity mandate -->
-<a xlink:href="care activity mandate.svg" role="link"><rect x="576" y="762" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>care mandate assigning the right and obligation to perform specific care activities</title></rect><text x="630" y="782" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="630" y="782"  text-anchor="middle">care activity</tspan><tspan x="630" y="796"  text-anchor="middle">mandate</tspan></text>
+<a xlink:href="care activity mandate.svg" role="link"><rect x="576" y="762" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>care mandate assigning the right and obligation to perform specific care activities</title></rect><text x="630" y="782" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="630" y="782"  text-anchor="middle">care activity mandate</tspan></text>
 </a></g>
 </svg>

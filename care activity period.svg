@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 702 452" aria-labelledby="title desc" role="img"><title id="title">UML Class Diagram of care activity period and related concepts</title><desc  id="desc">An UML Class Diagram of the concept care activity period and the concepts related to it.</desc><!-- Generalisations of the Focal Class care activity period
  -->
 <g><!-- health related period -->
-<a xlink:href="health related period.svg" role="link"><rect x="297" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>time interval related to the health or care of a subject of care</title></rect><text x="351" y="30" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="30"  text-anchor="middle">health related</tspan><tspan x="351" y="44"  text-anchor="middle">period</tspan></text>
+<a xlink:href="health related period.svg" role="link"><rect x="297" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>time interval related to the health or care of a subject of care</title></rect><text x="351" y="30" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="30"  text-anchor="middle">health related period</tspan></text>
 </a></g>
 <!-- (351,135) to (351,62) care activity period has generalization health related period -->
 <line x1="351" y1="135" x2="351" y2="115" stroke="black" stroke-width="2" /><line x1="351" y1="62" x2="351" y2="115" stroke="black" stroke-width="2" /><line x1="351" y1="115" x2="351" y2="115" stroke="black" stroke-width="2" /><polygon points="351,62 346,72 356,72" fill="white" stroke="black" stroke-width="2" /><g> <!-- Association care professional manages care activity period -->
@@ -41,14 +41,14 @@
 </a></g>
 <g> <!-- Association care activity period mandated period of care mandated period of care -->
 <line x1="405" y1="230" x2="584" y2="230" stroke="black" stroke-width="2" /><text x="417" y="223" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="223"  text-anchor="middle">0..*</tspan></text>
-<text x="565" y="223" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="223"  text-anchor="middle">1..*</tspan></text>
+<text x="571" y="223" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="223"  text-anchor="middle">1..*</tspan></text>
 <polygon points="562,230 572,225 582,230 572,235" fill="white" stroke="black" stroke-width="2" />
 </g>
 <g><!-- mandated period of care -->
 <a xlink:href="mandated period of care.svg" role="link"><rect x="584" y="205" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>set of care activity periods where a care provider is mandated to perform the care activities required to address specific health needs</title></rect><text x="638" y="225" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="225"  text-anchor="middle">mandated period</tspan><tspan x="638" y="239"  text-anchor="middle">of care</tspan></text>
 </a></g>
 <g><!-- care activity period -->
-<a xlink:href="care activity period.svg" role="link"><rect x="297" y="135" width="108" height="180" fill="white" stroke="black" stroke-width="2" ><title>time interval during which care activities are performed for a subject of care</title></rect><text x="351" y="155" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="155"  text-anchor="middle">care activity</tspan><tspan x="351" y="169"  text-anchor="middle">period</tspan></text>
+<a xlink:href="care activity period.svg" role="link"><rect x="297" y="135" width="108" height="180" fill="white" stroke="black" stroke-width="2" ><title>time interval during which care activities are performed for a subject of care</title></rect><text x="351" y="155" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="155"  text-anchor="middle">care activity period</tspan></text>
 </a></g>
 <!-- (117,392) to (351,317) self-care period has generalization care activity period -->
 <line x1="117" y1="392" x2="117" y2="372" stroke="black" stroke-width="2" /><line x1="351" y1="317" x2="351" y2="372" stroke="black" stroke-width="2" /><line x1="117" y1="372" x2="351" y2="372" stroke="black" stroke-width="2" /><polygon points="351,317 346,327 356,327" fill="white" stroke="black" stroke-width="2" /><g><!-- self-care period -->
@@ -56,7 +56,7 @@
 </a></g>
 <!-- (351,392) to (351,317) indirect care activity period has generalization care activity period -->
 <line x1="351" y1="392" x2="351" y2="372" stroke="black" stroke-width="2" /><line x1="351" y1="317" x2="351" y2="372" stroke="black" stroke-width="2" /><line x1="351" y1="372" x2="351" y2="372" stroke="black" stroke-width="2" /><polygon points="351,317 346,327 356,327" fill="white" stroke="black" stroke-width="2" /><g><!-- indirect care activity period -->
-<a xlink:href="indirect care activity period.svg" role="link"><rect x="297" y="392" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>care activity period without the involvement of the subject of care</title></rect><text x="351" y="412" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="412"  text-anchor="middle">indirect care</tspan><tspan x="351" y="426"  text-anchor="middle">activity period</tspan></text>
+<a xlink:href="indirect care activity period.svg" role="link"><rect x="297" y="392" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>care activity period without the involvement of the subject of care</title></rect><text x="351" y="412" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="412"  text-anchor="middle">indirect care activity</tspan><tspan x="351" y="426"  text-anchor="middle">period</tspan></text>
 </a></g>
 <!-- (585,392) to (351,317) contact period has generalization care activity period -->
 <line x1="585" y1="392" x2="585" y2="372" stroke="black" stroke-width="2" /><line x1="351" y1="317" x2="351" y2="372" stroke="black" stroke-width="2" /><line x1="585" y1="372" x2="351" y2="372" stroke="black" stroke-width="2" /><polygon points="351,317 346,327 356,327" fill="white" stroke="black" stroke-width="2" /><g><!-- contact period -->

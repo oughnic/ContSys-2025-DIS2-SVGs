@@ -19,7 +19,7 @@
 <g> <!-- Association care goal contributes to achievement of intended outcome -->
 <line x1="118" y1="155" x2="297" y2="155" stroke="black" stroke-width="2" /><text x="130" y="148" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="148"  text-anchor="middle">1..*</tspan></text>
 <text x="287" y="148" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="287" y="148"  text-anchor="middle">1..*</tspan></text>
-<text x="207" y="169" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="207" y="169"  text-anchor="middle">contributes to achievement</tspan><tspan x="207" y="183"  text-anchor="middle">of</tspan></text>
+<text x="207" y="169" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="207" y="169"  text-anchor="middle">contributes to achievement of</tspan></text>
 
 </g>
 <g><!-- care goal -->
@@ -27,7 +27,7 @@
 </a></g>
 <g> <!-- Association intended outcome addresses health need -->
 <line x1="405" y1="35" x2="584" y2="35" stroke="black" stroke-width="2" /><text x="417" y="28" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="28"  text-anchor="middle">0..*</tspan></text>
-<text x="565" y="28" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="28"  text-anchor="middle">1..*</tspan></text>
+<text x="571" y="28" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="28"  text-anchor="middle">1..*</tspan></text>
 <text x="494" y="49" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="49"  text-anchor="middle">addresses</tspan></text>
 </g>
 <g><!-- health need -->

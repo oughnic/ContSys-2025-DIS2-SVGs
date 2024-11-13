@@ -24,7 +24,7 @@
 </a></g>
 <g> <!-- Association care resource management care care -->
 <line x1="405" y1="170" x2="584" y2="170" stroke="black" stroke-width="2" /><text x="417" y="163" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="163"  text-anchor="middle">1..*</tspan></text>
-<text x="565" y="163" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="163"  text-anchor="middle">0..*</tspan></text>
+<text x="571" y="163" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="163"  text-anchor="middle">0..*</tspan></text>
 <polygon points="562,170 572,165 582,170 572,175" fill="white" stroke="black" stroke-width="2" />
 </g>
 <g><!-- care -->
@@ -32,13 +32,13 @@
 </a></g>
 <g> <!-- Association care resource management direct and control the supply and use of care resource -->
 <line x1="405" y1="230" x2="584" y2="230" stroke="black" stroke-width="2" /><text x="417" y="223" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="223"  text-anchor="middle">1..*</tspan></text>
-<text x="565" y="223" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="223"  text-anchor="middle">1..*</tspan></text>
-<text x="494" y="244" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="244"  text-anchor="middle">direct and control the</tspan><tspan x="494" y="258"  text-anchor="middle">supply and use of</tspan></text>
+<text x="571" y="223" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="223"  text-anchor="middle">1..*</tspan></text>
+<text x="494" y="244" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="244"  text-anchor="middle">direct and control the supply and</tspan><tspan x="494" y="258"  text-anchor="middle">use of</tspan></text>
 </g>
 <g><!-- care resource -->
 <a xlink:href="care resource.svg" role="link"><rect x="584" y="205" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>resource needed to perform care activities</title></rect><text x="638" y="225" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="225"  text-anchor="middle">care resource</tspan></text>
 </a></g>
 <g><!-- care resource management -->
-<a xlink:href="care resource management.svg" role="link"><rect x="297" y="135" width="108" height="130" fill="white" stroke="black" stroke-width="2" ><title>activities to direct and control the supply and use of the care resources required to perform care activities</title></rect><text x="351" y="155" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="155"  text-anchor="middle">care resource</tspan><tspan x="351" y="169"  text-anchor="middle">management</tspan></text>
+<a xlink:href="care resource management.svg" role="link"><rect x="297" y="135" width="108" height="130" fill="white" stroke="black" stroke-width="2" ><title>activities to direct and control the supply and use of the care resources required to perform care activities</title></rect><text x="351" y="155" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="155"  text-anchor="middle">care resource management</tspan></text>
 </a></g>
 </svg>

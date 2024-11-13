@@ -11,11 +11,11 @@
 
 </g>
 <g><!-- professionally assessed condition -->
-<a xlink:href="professionally assessed condition.svg" role="link"><rect x="10" y="135" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>observed condition assessed by a care professional</title></rect><text x="64" y="155" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="155"  text-anchor="middle">professionally</tspan><tspan x="64" y="169"  text-anchor="middle">assessed condition</tspan></text>
+<a xlink:href="professionally assessed condition.svg" role="link"><rect x="10" y="135" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>observed condition assessed by a care professional</title></rect><text x="64" y="155" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="155"  text-anchor="middle">professionally assessed</tspan><tspan x="64" y="169"  text-anchor="middle">condition</tspan></text>
 </a></g>
 <g> <!-- Association care professional issues referral -->
 <line x1="405" y1="170" x2="584" y2="170" stroke="black" stroke-width="2" /><text x="417" y="163" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="163"  text-anchor="middle">1..*</tspan></text>
-<text x="565" y="163" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="163"  text-anchor="middle">0..*</tspan></text>
+<text x="571" y="163" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="163"  text-anchor="middle">0..*</tspan></text>
 <text x="494" y="184" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="184"  text-anchor="middle">issues</tspan></text>
 </g>
 <g><!-- referral -->
@@ -23,7 +23,7 @@
 </a></g>
 <g> <!-- Association care professional considered condition considered condition -->
 <line x1="405" y1="230" x2="584" y2="230" stroke="black" stroke-width="2" /><text x="417" y="223" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="223"  text-anchor="middle">0..*</tspan></text>
-<text x="565" y="223" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="223"  text-anchor="middle">0..*</tspan></text>
+<text x="571" y="223" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="223"  text-anchor="middle">0..*</tspan></text>
 <text x="494" y="244" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="244"  text-anchor="middle">considered condition</tspan></text>
 </g>
 <g><!-- considered condition -->
@@ -31,7 +31,7 @@
 </a></g>
 <g> <!-- Association care professional has ruled out excluded condition -->
 <line x1="405" y1="290" x2="584" y2="290" stroke="black" stroke-width="2" /><text x="417" y="283" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="283"  text-anchor="middle">1..*</tspan></text>
-<text x="565" y="283" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="283"  text-anchor="middle">0..*</tspan></text>
+<text x="571" y="283" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="283"  text-anchor="middle">0..*</tspan></text>
 <text x="494" y="304" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="304"  text-anchor="middle">has ruled out</tspan></text>
 </g>
 <g><!-- excluded condition -->
@@ -39,7 +39,7 @@
 </a></g>
 <g> <!-- Association care professional plays prescriber -->
 <line x1="405" y1="350" x2="584" y2="350" stroke="black" stroke-width="2" /><text x="417" y="343" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="343"  text-anchor="middle">1</tspan></text>
-<text x="565" y="343" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="343"  text-anchor="middle">0..*</tspan></text>
+<text x="571" y="343" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="343"  text-anchor="middle">0..*</tspan></text>
 <text x="494" y="364" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="364"  text-anchor="middle">plays</tspan></text>
 </g>
 <g><!-- prescriber -->
@@ -47,7 +47,7 @@
 </a></g>
 <g> <!-- Association care professional issues request request for service -->
 <line x1="405" y1="410" x2="584" y2="410" stroke="black" stroke-width="2" /><text x="417" y="403" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="403"  text-anchor="middle">1..*</tspan></text>
-<text x="565" y="403" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="403"  text-anchor="middle">0..*</tspan></text>
+<text x="571" y="403" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="403"  text-anchor="middle">0..*</tspan></text>
 <text x="494" y="424" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="424"  text-anchor="middle">issues request</tspan></text>
 </g>
 <g><!-- request for service -->
@@ -55,15 +55,15 @@
 </a></g>
 <g> <!-- Association care professional manages care activity period -->
 <line x1="405" y1="470" x2="584" y2="470" stroke="black" stroke-width="2" /><text x="417" y="463" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="463"  text-anchor="middle">1..*</tspan></text>
-<text x="565" y="463" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="463"  text-anchor="middle">0..*</tspan></text>
+<text x="571" y="463" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="463"  text-anchor="middle">0..*</tspan></text>
 <text x="494" y="484" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="484"  text-anchor="middle">manages</tspan></text>
 </g>
 <g><!-- care activity period -->
-<a xlink:href="care activity period.svg" role="link"><rect x="584" y="445" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>time interval during which care activities are performed for a subject of care</title></rect><text x="638" y="465" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="465"  text-anchor="middle">care activity</tspan><tspan x="638" y="479"  text-anchor="middle">period</tspan></text>
+<a xlink:href="care activity period.svg" role="link"><rect x="584" y="445" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>time interval during which care activities are performed for a subject of care</title></rect><text x="638" y="465" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="465"  text-anchor="middle">care activity period</tspan></text>
 </a></g>
 <g> <!-- Association care professional has determined working diagnosis -->
 <line x1="405" y1="530" x2="584" y2="530" stroke="black" stroke-width="2" /><text x="417" y="523" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="523"  text-anchor="middle">1..*</tspan></text>
-<text x="565" y="523" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="523"  text-anchor="middle">0..*</tspan></text>
+<text x="571" y="523" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="523"  text-anchor="middle">0..*</tspan></text>
 <text x="494" y="544" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="544"  text-anchor="middle">has determined</tspan></text>
 </g>
 <g><!-- working diagnosis -->
@@ -71,7 +71,7 @@
 </a></g>
 <g> <!-- Association care professional identifies prognostic condition -->
 <line x1="405" y1="590" x2="584" y2="590" stroke="black" stroke-width="2" /><text x="417" y="583" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="583"  text-anchor="middle">1..*</tspan></text>
-<text x="565" y="583" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="583"  text-anchor="middle">0..*</tspan></text>
+<text x="571" y="583" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="583"  text-anchor="middle">0..*</tspan></text>
 <text x="494" y="604" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="604"  text-anchor="middle">identifies</tspan></text>
 </g>
 <g><!-- prognostic condition -->
@@ -79,7 +79,7 @@
 </a></g>
 <g> <!-- Association care professional performs care needs assessment -->
 <line x1="405" y1="650" x2="584" y2="650" stroke="black" stroke-width="2" /><text x="417" y="643" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="643"  text-anchor="middle">1..*</tspan></text>
-<text x="565" y="643" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="643"  text-anchor="middle">0..*</tspan></text>
+<text x="571" y="643" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="643"  text-anchor="middle">0..*</tspan></text>
 <text x="494" y="664" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="664"  text-anchor="middle">performs</tspan></text>
 </g>
 <g><!-- care needs assessment -->
@@ -87,7 +87,7 @@
 </a></g>
 <g> <!-- Association care professional has care professional entitlement -->
 <line x1="405" y1="710" x2="584" y2="710" stroke="black" stroke-width="2" /><text x="417" y="703" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="703"  text-anchor="middle">1..*</tspan></text>
-<text x="565" y="703" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="703"  text-anchor="middle">1..*</tspan></text>
+<text x="571" y="703" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="703"  text-anchor="middle">1..*</tspan></text>
 <text x="494" y="724" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="724"  text-anchor="middle">has</tspan></text>
 </g>
 <g><!-- care professional entitlement -->
@@ -95,15 +95,15 @@
 </a></g>
 <g> <!-- Association care professional maintains professional health record -->
 <line x1="405" y1="770" x2="584" y2="770" stroke="black" stroke-width="2" /><text x="417" y="763" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="763"  text-anchor="middle">1..*</tspan></text>
-<text x="565" y="763" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="763"  text-anchor="middle">0..*</tspan></text>
+<text x="571" y="763" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="763"  text-anchor="middle">0..*</tspan></text>
 <text x="494" y="784" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="784"  text-anchor="middle">maintains</tspan></text>
 </g>
 <g><!-- professional health record -->
-<a xlink:href="professional health record.svg" role="link"><rect x="584" y="745" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>health record held under the responsibility of one care provider and maintained by one or several care professionals </title></rect><text x="638" y="765" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="765"  text-anchor="middle">professional</tspan><tspan x="638" y="779"  text-anchor="middle">health record</tspan></text>
+<a xlink:href="professional health record.svg" role="link"><rect x="584" y="745" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>health record held under the responsibility of one care provider and maintained by one or several care professionals </title></rect><text x="638" y="765" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="765"  text-anchor="middle">professional health</tspan><tspan x="638" y="779"  text-anchor="middle">record</tspan></text>
 </a></g>
 <g> <!-- Association care professional ratifies care information for import -->
 <line x1="405" y1="830" x2="584" y2="830" stroke="black" stroke-width="2" /><text x="417" y="823" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="823"  text-anchor="middle">1..*</tspan></text>
-<text x="565" y="823" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="823"  text-anchor="middle">0..*</tspan></text>
+<text x="571" y="823" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="823"  text-anchor="middle">0..*</tspan></text>
 <text x="494" y="844" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="844"  text-anchor="middle">ratifies</tspan></text>
 </g>
 <g><!-- care information for import -->
@@ -111,7 +111,7 @@
 </a></g>
 <g> <!-- Association care professional manages demand request for care -->
 <line x1="405" y1="890" x2="584" y2="890" stroke="black" stroke-width="2" /><text x="417" y="883" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="883"  text-anchor="middle">0..*</tspan></text>
-<text x="565" y="883" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="883"  text-anchor="middle">0..*</tspan></text>
+<text x="571" y="883" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="883"  text-anchor="middle">0..*</tspan></text>
 <text x="494" y="904" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="904"  text-anchor="middle">manages demand</tspan></text>
 </g>
 <g><!-- request for care -->

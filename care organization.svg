@@ -15,15 +15,15 @@
 </a></g>
 <g> <!-- Association care organization performs care quality management -->
 <line x1="405" y1="170" x2="584" y2="170" stroke="black" stroke-width="2" /><text x="417" y="163" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="163"  text-anchor="middle">1..*</tspan></text>
-<text x="565" y="163" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="163"  text-anchor="middle">1..*</tspan></text>
+<text x="571" y="163" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="163"  text-anchor="middle">1..*</tspan></text>
 <text x="494" y="184" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="184"  text-anchor="middle">performs</tspan></text>
 </g>
 <g><!-- care quality management -->
-<a xlink:href="care quality management.svg" role="link"><rect x="584" y="145" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>coordinated activities to direct and control a care organization with regard to quality</title></rect><text x="638" y="165" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="165"  text-anchor="middle">care quality</tspan><tspan x="638" y="179"  text-anchor="middle">management</tspan></text>
+<a xlink:href="care quality management.svg" role="link"><rect x="584" y="145" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>coordinated activities to direct and control a care organization with regard to quality</title></rect><text x="638" y="165" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="165"  text-anchor="middle">care quality management</tspan></text>
 </a></g>
 <g> <!-- Association care organization adopts core care plan -->
 <line x1="405" y1="230" x2="584" y2="230" stroke="black" stroke-width="2" /><text x="417" y="223" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="223"  text-anchor="middle">1..*</tspan></text>
-<text x="565" y="223" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="223"  text-anchor="middle">0..*</tspan></text>
+<text x="571" y="223" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="223"  text-anchor="middle">0..*</tspan></text>
 <text x="494" y="244" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="244"  text-anchor="middle">adopts</tspan></text>
 </g>
 <g><!-- core care plan -->

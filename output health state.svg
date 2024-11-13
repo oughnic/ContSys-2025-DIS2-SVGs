@@ -15,13 +15,13 @@
 </a></g>
 <g> <!-- Association output health state is observed as resultant condition -->
 <line x1="405" y1="170" x2="584" y2="170" stroke="black" stroke-width="2" /><text x="417" y="163" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="163"  text-anchor="middle">1..*</tspan></text>
-<text x="565" y="163" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="163"  text-anchor="middle">0..*</tspan></text>
+<text x="571" y="163" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="163"  text-anchor="middle">0..*</tspan></text>
 <text x="494" y="184" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="184"  text-anchor="middle">is observed as</tspan></text>
 </g>
 <g><!-- resultant condition -->
 <a xlink:href="resultant condition.svg" role="link"><rect x="584" y="145" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>observed condition representing an output health state</title></rect><text x="638" y="165" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="165"  text-anchor="middle">resultant condition</tspan></text>
 </a></g>
 <g><!-- output health state -->
-<a xlink:href="output health state.svg" role="link"><rect x="297" y="135" width="108" height="70" fill="white" stroke="black" stroke-width="2" ><title>health state when a care process ends</title></rect><text x="351" y="155" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="155"  text-anchor="middle">output health</tspan><tspan x="351" y="169"  text-anchor="middle">state</tspan></text>
+<a xlink:href="output health state.svg" role="link"><rect x="297" y="135" width="108" height="70" fill="white" stroke="black" stroke-width="2" ><title>health state when a care process ends</title></rect><text x="351" y="155" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="155"  text-anchor="middle">output health state</tspan></text>
 </a></g>
 </svg>

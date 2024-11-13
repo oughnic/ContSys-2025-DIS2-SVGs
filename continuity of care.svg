@@ -18,13 +18,13 @@
 </a></g>
 <g> <!-- Association continuity of care relates to the delivering of care -->
 <line x1="405" y1="35" x2="584" y2="35" stroke="black" stroke-width="2" /><text x="417" y="28" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="28"  text-anchor="middle">0..*</tspan></text>
-<text x="565" y="28" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="565" y="28"  text-anchor="middle">0..*</tspan></text>
-<text x="494" y="49" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="49"  text-anchor="middle">relates to the delivering</tspan><tspan x="494" y="63"  text-anchor="middle">of</tspan></text>
+<text x="571" y="28" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="28"  text-anchor="middle">0..*</tspan></text>
+<text x="494" y="49" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="49"  text-anchor="middle">relates to the delivering of</tspan></text>
 </g>
 <g><!-- care -->
 <a xlink:href="care.svg" role="link"><rect x="584" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>care activities, services, management or supplies related to the health of an individual   </title></rect><text x="638" y="30" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="30"  text-anchor="middle">care</tspan></text>
 </a></g>
 <g><!-- continuity of care -->
-<a xlink:href="continuity of care.svg" role="link"><rect x="297" y="10" width="108" height="120" fill="white" stroke="black" stroke-width="2" ><title>coherent and interconnected series of care events over time</title></rect><text x="351" y="30" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="30"  text-anchor="middle">continuity of</tspan><tspan x="351" y="44"  text-anchor="middle">care</tspan></text>
+<a xlink:href="continuity of care.svg" role="link"><rect x="297" y="10" width="108" height="120" fill="white" stroke="black" stroke-width="2" ><title>coherent and interconnected series of care events over time</title></rect><text x="351" y="30" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="30"  text-anchor="middle">continuity of care</tspan></text>
 </a></g>
 </svg>
