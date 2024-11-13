@@ -5,9 +5,9 @@
 
 </g>
 <g><!-- subject of care -->
-<a xlink:href="subject of care.svg" role="link"><rect x="10" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>person seeking to receive, receiving, or having received care</title></rect><text x="64" y="30" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="30"  text-anchor="middle">subject of care</tspan></text>
+<a xlink:href="subject of care.svg" role="link"><rect x="10" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>person seeking to receive, receiving, or having received care</title></rect><text x="64" y="25" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="25"  text-anchor="middle">subject of care</tspan></text>
 </a></g>
 <g><!-- next of kin -->
-<a xlink:href="next of kin.svg" role="link"><rect x="297" y="10" width="108" height="60" fill="white" stroke="black" stroke-width="2" ><title>person role being either the closest living relative of the subject of care or identified as the one they have a close relationship with</title></rect><text x="351" y="30" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="30"  text-anchor="middle">next of kin</tspan></text>
+<a xlink:href="next of kin.svg" role="link"><rect x="297" y="10" width="108" height="60" fill="white" stroke="black" stroke-width="2" ><title>person role being either the closest living relative of the subject of care or identified as the one they have a close relationship with</title></rect><text x="351" y="25" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="25"  text-anchor="middle">next of kin</tspan></text>
 </a></g>
 </svg>

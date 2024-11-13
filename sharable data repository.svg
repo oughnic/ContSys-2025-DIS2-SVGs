@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 702 442" aria-labelledby="title desc" role="img"><title id="title">UML Class Diagram of sharable data repository and related concepts</title><desc  id="desc">An UML Class Diagram of the concept sharable data repository and the concepts related to it.</desc><!-- Generalisations of the Focal Class sharable data repository
  -->
 <g><!-- data repository -->
-<a xlink:href="data repository.svg" role="link"><rect x="297" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>identifiable data storage facility</title></rect><text x="351" y="30" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="30"  text-anchor="middle">data repository</tspan></text>
+<a xlink:href="data repository.svg" role="link"><rect x="297" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>identifiable data storage facility</title></rect><text x="351" y="25" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="25"  text-anchor="middle">data repository</tspan></text>
 </a></g>
 <!-- (351,135) to (351,62) sharable data repository has generalization data repository -->
 <line x1="351" y1="135" x2="351" y2="115" stroke="black" stroke-width="2" /><line x1="351" y1="62" x2="351" y2="115" stroke="black" stroke-width="2" /><line x1="351" y1="115" x2="351" y2="115" stroke="black" stroke-width="2" /><polygon points="351,62 346,72 356,72" fill="white" stroke="black" stroke-width="2" /><g> <!-- Association electronic health record extract is imported into sharable data repository -->
@@ -17,7 +17,7 @@
 
 </g>
 <g><!-- electronic health record extract -->
-<a xlink:href="electronic health record extract.svg" role="link"><rect x="10" y="135" width="108" height="100" fill="white" stroke="black" stroke-width="2" ><title>health record extract consisting solely of electronic record components</title></rect><text x="64" y="155" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="155"  text-anchor="middle">electronic health</tspan><tspan x="64" y="169"  text-anchor="middle">record extract</tspan></text>
+<a xlink:href="electronic health record extract.svg" role="link"><rect x="10" y="135" width="108" height="100" fill="white" stroke="black" stroke-width="2" ><title>health record extract consisting solely of electronic record components</title></rect><text x="64" y="150" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="150"  text-anchor="middle">electronic health</tspan><tspan x="64" y="164"  text-anchor="middle">record extract</tspan></text>
 </a></g>
 <g> <!-- Association care actor is responsible for sharable data repository -->
 <line x1="118" y1="270" x2="297" y2="270" stroke="black" stroke-width="2" /><text x="130" y="263" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="263"  text-anchor="middle">1..*</tspan></text>
@@ -26,13 +26,13 @@
 
 </g>
 <g><!-- care actor -->
-<a xlink:href="care actor.svg" role="link"><rect x="10" y="245" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>organization or person participating in care</title></rect><text x="64" y="265" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="265"  text-anchor="middle">care actor</tspan></text>
+<a xlink:href="care actor.svg" role="link"><rect x="10" y="245" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>organization or person participating in care</title></rect><text x="64" y="260" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="260"  text-anchor="middle">care actor</tspan></text>
 </a></g>
 <g><!-- sharable data repository -->
-<a xlink:href="sharable data repository.svg" role="link"><rect x="297" y="135" width="108" height="170" fill="white" stroke="black" stroke-width="2" ><title>data repository containing exclusively electronic health record extracts, accessible for duly authorized care actors independent of their organizational affiliation and placed under the custody of a care actor</title></rect><text x="351" y="155" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="155"  text-anchor="middle">sharable data</tspan><tspan x="351" y="169"  text-anchor="middle">repository</tspan></text>
+<a xlink:href="sharable data repository.svg" role="link"><rect x="297" y="135" width="108" height="170" fill="white" stroke="black" stroke-width="2" ><title>data repository containing exclusively electronic health record extracts, accessible for duly authorized care actors independent of their organizational affiliation and placed under the custody of a care actor</title></rect><text x="351" y="150" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="150"  text-anchor="middle">sharable data</tspan><tspan x="351" y="164"  text-anchor="middle">repository</tspan></text>
 </a></g>
 <!-- (351,382) to (351,307) summarized care information repository has generalization sharable data repository -->
 <line x1="351" y1="382" x2="351" y2="362" stroke="black" stroke-width="2" /><line x1="351" y1="307" x2="351" y2="362" stroke="black" stroke-width="2" /><line x1="351" y1="362" x2="351" y2="362" stroke="black" stroke-width="2" /><polygon points="351,307 346,317 356,317" fill="white" stroke="black" stroke-width="2" /><g><!-- summarized care information repository -->
-<a xlink:href="summarized care information repository.svg" role="link"><rect x="297" y="382" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>data repository containing summarized information for care coordination and the continuity of care</title></rect><text x="351" y="402" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="402"  text-anchor="middle">summarized</tspan><tspan x="351" y="416"  text-anchor="middle">care information</tspan><tspan x="351" y="430"  text-anchor="middle">repository</tspan></text>
+<a xlink:href="summarized care information repository.svg" role="link"><rect x="297" y="382" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>data repository containing summarized information for care coordination and the continuity of care</title></rect><text x="351" y="397" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="397"  text-anchor="middle">summarized</tspan><tspan x="351" y="411"  text-anchor="middle">care information</tspan><tspan x="351" y="425"  text-anchor="middle">repository</tspan></text>
 </a></g>
 </svg>
