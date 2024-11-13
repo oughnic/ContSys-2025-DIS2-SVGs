@@ -11,9 +11,9 @@
 
 </g>
 <g><!-- summarized care information repository -->
-<a xlink:href="summarized care information repository.svg" role="link"><rect x="10" y="135" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>data repository containing summarized information for care coordination and the continuity of care</title></rect><text x="64" y="155" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="155"  text-anchor="middle">summarized care</tspan><tspan x="64" y="169"  text-anchor="middle">information repository</tspan></text>
+<a xlink:href="summarized care information repository.svg" role="link"><rect x="10" y="135" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>data repository containing summarized information for care coordination and the continuity of care</title></rect><text x="64" y="155" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="155"  text-anchor="middle">summarized</tspan><tspan x="64" y="169"  text-anchor="middle">care information</tspan><tspan x="64" y="183"  text-anchor="middle">repository</tspan></text>
 </a></g>
 <g><!-- electronic patient summary -->
-<a xlink:href="electronic patient summary.svg" role="link"><rect x="297" y="135" width="108" height="60" fill="white" stroke="black" stroke-width="2" ><title>electronic health record extract containing essential care information intended for specific uses</title></rect><text x="351" y="155" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="155"  text-anchor="middle">electronic patient</tspan><tspan x="351" y="169"  text-anchor="middle">summary</tspan></text>
+<a xlink:href="electronic patient summary.svg" role="link"><rect x="297" y="135" width="108" height="60" fill="white" stroke="black" stroke-width="2" ><title>electronic health record extract containing essential care information intended for specific uses</title></rect><text x="351" y="155" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="155"  text-anchor="middle">electronic</tspan><tspan x="351" y="169"  text-anchor="middle">patient summary</tspan></text>
 </a></g>
 </svg>

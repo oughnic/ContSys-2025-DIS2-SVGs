@@ -34,6 +34,6 @@
 <a xlink:href="health need.svg" role="link"><rect x="584" y="10" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>health circumstance causing a deficit in the current health state compared to aspects of a desired future health</title></rect><text x="638" y="30" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="30"  text-anchor="middle">health need</tspan></text>
 </a></g>
 <g><!-- intended outcome -->
-<a xlink:href="intended outcome.svg" role="link"><rect x="297" y="10" width="108" height="180" fill="white" stroke="black" stroke-width="2" ><title>desired ultimate achievement of a care process addressing health needs</title></rect><text x="351" y="30" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="30"  text-anchor="middle">intended outcome</tspan></text>
+<a xlink:href="intended outcome.svg" role="link"><rect x="297" y="10" width="108" height="180" fill="white" stroke="black" stroke-width="2" ><title>desired ultimate achievement of a care process addressing health needs</title></rect><text x="351" y="30" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="30"  text-anchor="middle">intended</tspan><tspan x="351" y="44"  text-anchor="middle">outcome</tspan></text>
 </a></g>
 </svg>

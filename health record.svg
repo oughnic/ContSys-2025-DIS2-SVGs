@@ -11,7 +11,7 @@
 
 </g>
 <g><!-- care documenting -->
-<a xlink:href="care documenting.svg" role="link"><rect x="10" y="135" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>care activity where health records are created or maintained</title></rect><text x="64" y="155" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="155"  text-anchor="middle">care documenting</tspan></text>
+<a xlink:href="care documenting.svg" role="link"><rect x="10" y="135" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>care activity where health records are created or maintained</title></rect><text x="64" y="155" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="155"  text-anchor="middle">care</tspan><tspan x="64" y="169"  text-anchor="middle">documenting</tspan></text>
 </a></g>
 <g> <!-- Association non-ratified care information is recorded in health record -->
 <line x1="118" y1="220" x2="297" y2="220" stroke="black" stroke-width="2" /><text x="130" y="213" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="213"  text-anchor="middle">0..*</tspan></text>
@@ -53,7 +53,7 @@
 
 </g>
 <g><!-- subject of care desire -->
-<a xlink:href="subject of care desire.svg" role="link"><rect x="10" y="425" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>desire expressed by the subject of care or the subject of care proxy regarding the performance of certain care activities</title></rect><text x="64" y="445" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="445"  text-anchor="middle">subject of care desire</tspan></text>
+<a xlink:href="subject of care desire.svg" role="link"><rect x="10" y="425" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>desire expressed by the subject of care or the subject of care proxy regarding the performance of certain care activities</title></rect><text x="64" y="445" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="445"  text-anchor="middle">subject of care</tspan><tspan x="64" y="459"  text-anchor="middle">desire</tspan></text>
 </a></g>
 <g> <!-- Association care activity is recorded in health record -->
 <line x1="118" y1="510" x2="297" y2="510" stroke="black" stroke-width="2" /><text x="130" y="503" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="503"  text-anchor="middle">1..*</tspan></text>
@@ -80,7 +80,7 @@
 
 </g>
 <g><!-- health record extract -->
-<a xlink:href="health record extract.svg" role="link"><rect x="10" y="605" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>part or all of a health record extracted for the purpose of communication</title></rect><text x="64" y="625" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="625"  text-anchor="middle">health record extract</tspan></text>
+<a xlink:href="health record extract.svg" role="link"><rect x="10" y="605" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>part or all of a health record extracted for the purpose of communication</title></rect><text x="64" y="625" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="625"  text-anchor="middle">health record</tspan><tspan x="64" y="639"  text-anchor="middle">extract</tspan></text>
 </a></g>
 <g> <!-- Association health record is accessed during period care activity period -->
 <line x1="405" y1="170" x2="584" y2="170" stroke="black" stroke-width="2" /><text x="417" y="163" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="163"  text-anchor="middle">0..*</tspan></text>
@@ -88,7 +88,7 @@
 <text x="494" y="184" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="184"  text-anchor="middle">is accessed during period</tspan></text>
 </g>
 <g><!-- care activity period -->
-<a xlink:href="care activity period.svg" role="link"><rect x="584" y="145" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>time interval during which care activities are performed for a subject of care</title></rect><text x="638" y="165" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="165"  text-anchor="middle">care activity period</tspan></text>
+<a xlink:href="care activity period.svg" role="link"><rect x="584" y="145" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>time interval during which care activities are performed for a subject of care</title></rect><text x="638" y="165" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="165"  text-anchor="middle">care activity</tspan><tspan x="638" y="179"  text-anchor="middle">period</tspan></text>
 </a></g>
 <g> <!-- Association health record is accessed during care activity -->
 <line x1="405" y1="230" x2="584" y2="230" stroke="black" stroke-width="2" /><text x="417" y="223" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="223"  text-anchor="middle">0..*</tspan></text>
@@ -104,7 +104,7 @@
 <text x="494" y="304" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="304"  text-anchor="middle">health record component</tspan></text>
 </g>
 <g><!-- health record component -->
-<a xlink:href="health record component.svg" role="link"><rect x="584" y="265" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>part of a health record that is identifiable for the purposes of referencing and revision</title></rect><text x="638" y="285" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="285"  text-anchor="middle">health record component</tspan></text>
+<a xlink:href="health record component.svg" role="link"><rect x="584" y="265" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>part of a health record that is identifiable for the purposes of referencing and revision</title></rect><text x="638" y="285" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="285"  text-anchor="middle">health record</tspan><tspan x="638" y="299"  text-anchor="middle">component</tspan></text>
 </a></g>
 <g> <!-- Association health record concerns subject of care -->
 <line x1="405" y1="350" x2="584" y2="350" stroke="black" stroke-width="2" /><text x="417" y="343" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="343"  text-anchor="middle">1..*</tspan></text>
@@ -123,10 +123,10 @@
 </a></g>
 <!-- (351,742) to (351,667) personal health record has generalization health record -->
 <line x1="351" y1="742" x2="351" y2="722" stroke="black" stroke-width="2" /><line x1="351" y1="667" x2="351" y2="722" stroke="black" stroke-width="2" /><line x1="351" y1="722" x2="351" y2="722" stroke="black" stroke-width="2" /><polygon points="351,667 346,677 356,677" fill="white" stroke="black" stroke-width="2" /><g><!-- personal health record -->
-<a xlink:href="personal health record.svg" role="link"><rect x="297" y="742" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>health record held and maintained by the subject of care or a subject of care proxy</title></rect><text x="351" y="762" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="762"  text-anchor="middle">personal health record</tspan></text>
+<a xlink:href="personal health record.svg" role="link"><rect x="297" y="742" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>health record held and maintained by the subject of care or a subject of care proxy</title></rect><text x="351" y="762" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="762"  text-anchor="middle">personal health</tspan><tspan x="351" y="776"  text-anchor="middle">record</tspan></text>
 </a></g>
 <!-- (585,742) to (351,667) professional health record has generalization health record -->
 <line x1="585" y1="742" x2="585" y2="722" stroke="black" stroke-width="2" /><line x1="351" y1="667" x2="351" y2="722" stroke="black" stroke-width="2" /><line x1="585" y1="722" x2="351" y2="722" stroke="black" stroke-width="2" /><polygon points="351,667 346,677 356,677" fill="white" stroke="black" stroke-width="2" /><g><!-- professional health record -->
-<a xlink:href="professional health record.svg" role="link"><rect x="531" y="742" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>health record held under the responsibility of one care provider and maintained by one or several care professionals </title></rect><text x="585" y="762" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="585" y="762"  text-anchor="middle">professional health</tspan><tspan x="585" y="776"  text-anchor="middle">record</tspan></text>
+<a xlink:href="professional health record.svg" role="link"><rect x="531" y="742" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>health record held under the responsibility of one care provider and maintained by one or several care professionals </title></rect><text x="585" y="762" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="585" y="762"  text-anchor="middle">professional</tspan><tspan x="585" y="776"  text-anchor="middle">health record</tspan></text>
 </a></g>
 </svg>

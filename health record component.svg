@@ -11,7 +11,7 @@
 
 </g>
 <g><!-- health circumstance -->
-<a xlink:href="health circumstance.svg" role="link"><rect x="10" y="145" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>circumstance contributing to the health state of a person</title></rect><text x="64" y="165" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="165"  text-anchor="middle">health circumstance</tspan></text>
+<a xlink:href="health circumstance.svg" role="link"><rect x="10" y="145" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>circumstance contributing to the health state of a person</title></rect><text x="64" y="165" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="165"  text-anchor="middle">health</tspan><tspan x="64" y="179"  text-anchor="middle">circumstance</tspan></text>
 </a></g>
 <g> <!-- Association health record health record component health record component -->
 <line x1="118" y1="230" x2="297" y2="230" stroke="black" stroke-width="2" /><text x="130" y="223" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="223"  text-anchor="middle">0..*</tspan></text>
@@ -29,7 +29,7 @@
 
 </g>
 <g><!-- health record extract -->
-<a xlink:href="health record extract.svg" role="link"><rect x="10" y="265" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>part or all of a health record extracted for the purpose of communication</title></rect><text x="64" y="285" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="285"  text-anchor="middle">health record extract</tspan></text>
+<a xlink:href="health record extract.svg" role="link"><rect x="10" y="265" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>part or all of a health record extracted for the purpose of communication</title></rect><text x="64" y="285" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="285"  text-anchor="middle">health record</tspan><tspan x="64" y="299"  text-anchor="middle">extract</tspan></text>
 </a></g>
 <g> <!-- Association health record component link health record component -->
 <line x1="405" y1="160" x2="469" y2="160" stroke="black" stroke-width="2" /><line x1="469" y1="160" x2="469" y2="190" stroke="black" stroke-width="2" /><line x1="469" y1="190" x2="405" y2="190" stroke="black" stroke-width="2" /><text x="574" y="175" text-anchor="start" font-family="Cambria" font-size="12" fill="black"><tspan x="574" y="175"  text-anchor="middle">link</tspan></text>
@@ -42,7 +42,7 @@
 <text x="415" y="213" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="415" y="213"  text-anchor="middle">0..*</tspan></text>
 </g>
 <g><!-- health record component -->
-<a xlink:href="health record component.svg" role="link"><rect x="297" y="135" width="108" height="190" fill="white" stroke="black" stroke-width="2" ><title>part of a health record that is identifiable for the purposes of referencing and revision</title></rect><text x="351" y="155" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="155"  text-anchor="middle">health record component</tspan></text>
+<a xlink:href="health record component.svg" role="link"><rect x="297" y="135" width="108" height="190" fill="white" stroke="black" stroke-width="2" ><title>part of a health record that is identifiable for the purposes of referencing and revision</title></rect><text x="351" y="155" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="155"  text-anchor="middle">health record</tspan><tspan x="351" y="169"  text-anchor="middle">component</tspan></text>
 </a></g>
 <!-- (70,402) to (351,327) SECTION has generalization health record component -->
 <line x1="70" y1="402" x2="70" y2="382" stroke="black" stroke-width="2" /><line x1="351" y1="327" x2="351" y2="382" stroke="black" stroke-width="2" /><line x1="70" y1="382" x2="351" y2="382" stroke="black" stroke-width="2" /><polygon points="351,327 346,337 356,337" fill="white" stroke="black" stroke-width="2" /><g><!-- SECTION -->

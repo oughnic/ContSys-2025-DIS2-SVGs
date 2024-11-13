@@ -24,7 +24,7 @@
 
 </g>
 <g><!-- reason for request for care -->
-<a xlink:href="reason for request for care.svg" role="link"><rect x="10" y="195" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>subject of care or a subject of care proxy's perception of health needs motivating a request for care</title></rect><text x="64" y="215" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="215"  text-anchor="middle">reason for request</tspan><tspan x="64" y="229"  text-anchor="middle">for care</tspan></text>
+<a xlink:href="reason for request for care.svg" role="link"><rect x="10" y="195" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>subject of care or a subject of care proxy's perception of health needs motivating a request for care</title></rect><text x="64" y="215" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="215"  text-anchor="middle">reason for</tspan><tspan x="64" y="229"  text-anchor="middle">request for care</tspan></text>
 </a></g>
 <g> <!-- Association care mandate concerns subject of care -->
 <line x1="118" y1="280" x2="297" y2="280" stroke="black" stroke-width="2" /><text x="130" y="273" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="273"  text-anchor="middle">1..*</tspan></text>
@@ -47,11 +47,11 @@
 <g> <!-- Association subject of care proxy has the right to take decisions on behalf of subject of care -->
 <line x1="118" y1="400" x2="297" y2="400" stroke="black" stroke-width="2" /><text x="130" y="393" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="393"  text-anchor="middle">0..*</tspan></text>
 <text x="287" y="393" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="287" y="393"  text-anchor="middle">1</tspan></text>
-<text x="207" y="414" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="207" y="414"  text-anchor="middle">has the right to take decisions on</tspan><tspan x="207" y="428"  text-anchor="middle">behalf of</tspan></text>
+<text x="207" y="414" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="207" y="414"  text-anchor="middle">has the right to take decisions</tspan><tspan x="207" y="428"  text-anchor="middle">on behalf of</tspan></text>
 
 </g>
 <g><!-- subject of care proxy -->
-<a xlink:href="subject of care proxy.svg" role="link"><rect x="10" y="375" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>person with authority to take decisions on behalf of a subject of care</title></rect><text x="64" y="395" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="395"  text-anchor="middle">subject of care proxy</tspan></text>
+<a xlink:href="subject of care proxy.svg" role="link"><rect x="10" y="375" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>person with authority to take decisions on behalf of a subject of care</title></rect><text x="64" y="395" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="395"  text-anchor="middle">subject of care</tspan><tspan x="64" y="409"  text-anchor="middle">proxy</tspan></text>
 </a></g>
 <g> <!-- Association subject of care preference delay is caused by subject of care -->
 <line x1="118" y1="460" x2="297" y2="460" stroke="black" stroke-width="2" /><text x="130" y="453" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="453"  text-anchor="middle">0..*</tspan></text>
@@ -60,7 +60,7 @@
 
 </g>
 <g><!-- subject of care preference delay -->
-<a xlink:href="subject of care preference delay.svg" role="link"><rect x="10" y="435" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>care activity delay by the preference of the subject of care</title></rect><text x="64" y="455" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="455"  text-anchor="middle">subject of care preference</tspan><tspan x="64" y="469"  text-anchor="middle">delay</tspan></text>
+<a xlink:href="subject of care preference delay.svg" role="link"><rect x="10" y="435" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>care activity delay by the preference of the subject of care</title></rect><text x="64" y="455" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="455"  text-anchor="middle">subject of care</tspan><tspan x="64" y="469"  text-anchor="middle">preference delay</tspan></text>
 </a></g>
 <g> <!-- Association care activity is for subject of care -->
 <line x1="118" y1="520" x2="297" y2="520" stroke="black" stroke-width="2" /><text x="130" y="513" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="513"  text-anchor="middle">1..*</tspan></text>
@@ -94,7 +94,7 @@
 <text x="494" y="254" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="254"  text-anchor="middle">maintains</tspan></text>
 </g>
 <g><!-- personal health record -->
-<a xlink:href="personal health record.svg" role="link"><rect x="584" y="215" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>health record held and maintained by the subject of care or a subject of care proxy</title></rect><text x="638" y="235" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="235"  text-anchor="middle">personal health record</tspan></text>
+<a xlink:href="personal health record.svg" role="link"><rect x="584" y="215" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>health record held and maintained by the subject of care or a subject of care proxy</title></rect><text x="638" y="235" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="235"  text-anchor="middle">personal health</tspan><tspan x="638" y="249"  text-anchor="middle">record</tspan></text>
 </a></g>
 <g> <!-- Association subject of care expresses subject of care desire -->
 <line x1="405" y1="300" x2="584" y2="300" stroke="black" stroke-width="2" /><text x="417" y="293" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="293"  text-anchor="middle">1</tspan></text>
@@ -102,12 +102,12 @@
 <text x="494" y="314" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="314"  text-anchor="middle">expresses</tspan></text>
 </g>
 <g><!-- subject of care desire -->
-<a xlink:href="subject of care desire.svg" role="link"><rect x="584" y="275" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>desire expressed by the subject of care or the subject of care proxy regarding the performance of certain care activities</title></rect><text x="638" y="295" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="295"  text-anchor="middle">subject of care desire</tspan></text>
+<a xlink:href="subject of care desire.svg" role="link"><rect x="584" y="275" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>desire expressed by the subject of care or the subject of care proxy regarding the performance of certain care activities</title></rect><text x="638" y="295" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="295"  text-anchor="middle">subject of care</tspan><tspan x="638" y="309"  text-anchor="middle">desire</tspan></text>
 </a></g>
 <g> <!-- Association subject of care seeks to receive, is receiving, or has received care -->
 <line x1="405" y1="360" x2="584" y2="360" stroke="black" stroke-width="2" /><text x="417" y="353" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="353"  text-anchor="middle">1..*</tspan></text>
 <text x="571" y="353" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="353"  text-anchor="middle">1..*</tspan></text>
-<text x="494" y="374" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="374"  text-anchor="middle">seeks to receive, is receiving, or</tspan><tspan x="494" y="388"  text-anchor="middle">has received</tspan></text>
+<text x="494" y="374" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="374"  text-anchor="middle">seeks to receive, is receiving,</tspan><tspan x="494" y="388"  text-anchor="middle">or has received</tspan></text>
 </g>
 <g><!-- care -->
 <a xlink:href="care.svg" role="link"><rect x="584" y="335" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>care activities, services, management or supplies related to the health of an individual   </title></rect><text x="638" y="355" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="355"  text-anchor="middle">care</tspan></text>
@@ -118,7 +118,7 @@
 <text x="494" y="434" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="434"  text-anchor="middle">gives</tspan></text>
 </g>
 <g><!-- informed consent -->
-<a xlink:href="informed consent.svg" role="link"><rect x="584" y="395" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>permission to perform care activities, voluntarily given by a subject of care with consent competence or by a subject of care proxy with consent competence, after having been informed about the purpose and the possible results of the care activities</title></rect><text x="638" y="415" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="415"  text-anchor="middle">informed consent</tspan></text>
+<a xlink:href="informed consent.svg" role="link"><rect x="584" y="395" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>permission to perform care activities, voluntarily given by a subject of care with consent competence or by a subject of care proxy with consent competence, after having been informed about the purpose and the possible results of the care activities</title></rect><text x="638" y="415" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="415"  text-anchor="middle">informed</tspan><tspan x="638" y="429"  text-anchor="middle">consent</tspan></text>
 </a></g>
 <g> <!-- Association subject of care has consent competence -->
 <line x1="405" y1="480" x2="584" y2="480" stroke="black" stroke-width="2" /><text x="417" y="473" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="473"  text-anchor="middle">1</tspan></text>
@@ -126,7 +126,7 @@
 <text x="494" y="494" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="494"  text-anchor="middle">has</tspan></text>
 </g>
 <g><!-- consent competence -->
-<a xlink:href="consent competence.svg" role="link"><rect x="584" y="455" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>capability of the subject of care and/or the subject of care proxy to give or withhold informed consent</title></rect><text x="638" y="475" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="475"  text-anchor="middle">consent competence</tspan></text>
+<a xlink:href="consent competence.svg" role="link"><rect x="584" y="455" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>capability of the subject of care and/or the subject of care proxy to give or withhold informed consent</title></rect><text x="638" y="475" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="475"  text-anchor="middle">consent</tspan><tspan x="638" y="489"  text-anchor="middle">competence</tspan></text>
 </a></g>
 <g> <!-- Association subject of care states objection -->
 <line x1="405" y1="540" x2="584" y2="540" stroke="black" stroke-width="2" /><text x="417" y="533" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="533"  text-anchor="middle">1</tspan></text>
@@ -158,7 +158,7 @@
 <text x="494" y="734" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="734"  text-anchor="middle">plays</tspan></text>
 </g>
 <g><!-- self-care performer -->
-<a xlink:href="self-care performer.svg" role="link"><rect x="584" y="695" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>role played by a subject of care when performing self-care</title></rect><text x="638" y="715" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="715"  text-anchor="middle">self-care performer</tspan></text>
+<a xlink:href="self-care performer.svg" role="link"><rect x="584" y="695" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>role played by a subject of care when performing self-care</title></rect><text x="638" y="715" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="715"  text-anchor="middle">self-care</tspan><tspan x="638" y="729"  text-anchor="middle">performer</tspan></text>
 </a></g>
 <g><!-- subject of care -->
 <a xlink:href="subject of care.svg" role="link"><rect x="297" y="135" width="108" height="620" fill="white" stroke="black" stroke-width="2" ><title>person seeking to receive, receiving, or having received care</title></rect><text x="351" y="155" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="155"  text-anchor="middle">subject of care</tspan></text>
