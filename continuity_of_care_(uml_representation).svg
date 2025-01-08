@@ -5,7 +5,7 @@
 
 </g>
 <g><!-- information -->
-<a xlink:href="information.svg" role="link"><rect x="10" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>knowledge concerning objects that within a certain context has a particular meaning</title></rect><text x="64" y="25" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="25"  text-anchor="middle">information</tspan></text>
+<a xlink:href="..information_(uml_representation).svg.html" role="link"><rect x="10" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>knowledge concerning objects that within a certain context has a particular meaning</title></rect><text x="64" y="25" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="25"  text-anchor="middle">information</tspan></text>
 </a></g>
 <g> <!-- Association care actor is involved in continuity of care -->
 <line x1="118" y1="95" x2="297" y2="95" stroke="black" stroke-width="2" /><text x="130" y="88" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="88"  text-anchor="middle">1..*</tspan></text>
@@ -14,7 +14,7 @@
 
 </g>
 <g><!-- care actor -->
-<a xlink:href="care actor.svg" role="link"><rect x="10" y="70" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>organization or person participating in care</title></rect><text x="64" y="85" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="85"  text-anchor="middle">care actor</tspan></text>
+<a xlink:href="..care_actor_(uml_representation).svg.html" role="link"><rect x="10" y="70" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>organization or person participating in care</title></rect><text x="64" y="85" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="85"  text-anchor="middle">care actor</tspan></text>
 </a></g>
 <g> <!-- Association continuity of care relates to the delivering of care -->
 <line x1="405" y1="35" x2="584" y2="35" stroke="black" stroke-width="2" /><text x="417" y="28" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="28"  text-anchor="middle">0..*</tspan></text>
@@ -22,9 +22,9 @@
 <text x="494" y="49" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="49"  text-anchor="middle">relates to the delivering of</tspan></text>
 </g>
 <g><!-- care -->
-<a xlink:href="care.svg" role="link"><rect x="584" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>care activities, services, management or supplies related to the health of an individual   </title></rect><text x="638" y="25" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="25"  text-anchor="middle">care</tspan></text>
+<a xlink:href="..care_(uml_representation).svg.html" role="link"><rect x="584" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>care activities, services, management or supplies related to the health of an individual   </title></rect><text x="638" y="25" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="25"  text-anchor="middle">care</tspan></text>
 </a></g>
 <g><!-- continuity of care -->
-<a xlink:href="continuity of care.svg" role="link"><rect x="297" y="10" width="108" height="120" fill="white" stroke="black" stroke-width="2" ><title>coherent and interconnected series of care events over time</title></rect><text x="351" y="25" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="25"  text-anchor="middle">continuity of</tspan><tspan x="351" y="39"  text-anchor="middle">care</tspan></text>
+<a xlink:href="..continuity_of_care_(uml_representation).svg.html" role="link"><rect x="297" y="10" width="108" height="120" fill="white" stroke="black" stroke-width="2" ><title>coherent and interconnected series of care events over time</title></rect><text x="351" y="25" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="25"  text-anchor="middle">continuity of</tspan><tspan x="351" y="39"  text-anchor="middle">care</tspan></text>
 </a></g>
 </svg>
