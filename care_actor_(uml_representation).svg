@@ -1,0 +1,177 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 702 1147" aria-labelledby="title desc" role="img"><title id="title">UML Class Diagram of care actor and related concepts</title><desc  id="desc">An UML Class Diagram of the concept care actor and the concepts related to it.</desc><g> <!-- Association organization is care actor -->
+<line x1="118" y1="35" x2="297" y2="35" stroke="black" stroke-width="2" /><text x="130" y="28" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="28"  text-anchor="middle">1</tspan></text>
+<text x="287" y="28" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="287" y="28"  text-anchor="middle">0..*</tspan></text>
+<text x="207" y="49" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="207" y="49"  text-anchor="middle">is</tspan></text>
+
+</g>
+<g><!-- organization -->
+<a xlink:href="organization.svg" role="link"><rect x="10" y="10" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>person or group of people that has its own functions with responsibilities, authorities and relationships to achieve its objectives</title></rect><text x="64" y="25" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="25"  text-anchor="middle">organization</tspan></text>
+</a></g>
+<g> <!-- Association care mandate is assigned to care actor -->
+<line x1="118" y1="95" x2="297" y2="95" stroke="black" stroke-width="2" /><text x="130" y="88" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="88"  text-anchor="middle">1..*</tspan></text>
+<text x="287" y="88" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="287" y="88"  text-anchor="middle">1</tspan></text>
+<text x="207" y="109" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="207" y="109"  text-anchor="middle">is assigned to</tspan></text>
+
+</g>
+<g><!-- care mandate -->
+<a xlink:href="care mandate.svg" role="link"><rect x="10" y="70" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>mandate (commission) based on a commitment and either an informed consent or an authorization by law, defining the rights and obligations of one care actor with regard to his involvement in care processes performed for a specific subject of care</title></rect><text x="64" y="85" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="85"  text-anchor="middle">care mandate</tspan></text>
+</a></g>
+<g> <!-- Association specific care information request is issued by care actor -->
+<line x1="118" y1="155" x2="297" y2="155" stroke="black" stroke-width="2" /><text x="130" y="148" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="148"  text-anchor="middle">0..*</tspan></text>
+<text x="287" y="148" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="287" y="148"  text-anchor="middle">1..*</tspan></text>
+<text x="207" y="169" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="207" y="169"  text-anchor="middle">is issued by</tspan></text>
+
+</g>
+<g><!-- specific care information request -->
+<a xlink:href="specific care information request.svg" role="link"><rect x="10" y="130" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>official document issued by a care actor attesting health condition relating to a subject of care</title></rect><text x="64" y="145" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="145"  text-anchor="middle">specific care</tspan><tspan x="64" y="159"  text-anchor="middle">information</tspan><tspan x="64" y="173"  text-anchor="middle">request</tspan></text>
+</a></g>
+<g> <!-- Association care actor assigns care mandate -->
+<line x1="405" y1="35" x2="584" y2="35" stroke="black" stroke-width="2" /><text x="417" y="28" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="28"  text-anchor="middle">1..*</tspan></text>
+<text x="571" y="28" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="28"  text-anchor="middle">1..*</tspan></text>
+<text x="494" y="49" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="49"  text-anchor="middle">assigns</tspan></text>
+</g>
+<g><!-- care mandate -->
+<a xlink:href="care mandate.svg" role="link"><rect x="584" y="10" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>mandate (commission) based on a commitment and either an informed consent or an authorization by law, defining the rights and obligations of one care actor with regard to his involvement in care processes performed for a specific subject of care</title></rect><text x="638" y="25" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="25"  text-anchor="middle">care mandate</tspan></text>
+</a></g>
+<g> <!-- Association care actor receives care information request -->
+<line x1="405" y1="95" x2="584" y2="95" stroke="black" stroke-width="2" /><text x="417" y="88" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="88"  text-anchor="middle">1..*</tspan></text>
+<text x="571" y="88" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="88"  text-anchor="middle">0..*</tspan></text>
+<text x="494" y="109" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="109"  text-anchor="middle">receives</tspan></text>
+</g>
+<g> <!-- Association care actor sends out care information request -->
+<line x1="405" y1="145" x2="584" y2="145" stroke="black" stroke-width="2" /><text x="417" y="138" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="138"  text-anchor="middle">1..*</tspan></text>
+<text x="571" y="138" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="138"  text-anchor="middle">0..*</tspan></text>
+<text x="494" y="159" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="159"  text-anchor="middle">sends out</tspan></text>
+</g>
+<g><!-- care information request -->
+<a xlink:href="care information request.svg" role="link"><rect x="584" y="70" width="108" height="100" fill="whitesmoke" stroke="black" stroke-width="2" ><title>request sent out by a care actor to another care actor for specific care information needed for the provision of care to a subject of care</title></rect><text x="638" y="85" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="85"  text-anchor="middle">care information</tspan><tspan x="638" y="99"  text-anchor="middle">request</tspan></text>
+</a></g>
+<g> <!-- Association care actor applies care plan -->
+<line x1="405" y1="205" x2="584" y2="205" stroke="black" stroke-width="2" /><text x="417" y="198" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="198"  text-anchor="middle">1..*</tspan></text>
+<text x="571" y="198" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="198"  text-anchor="middle">0..*</tspan></text>
+<text x="494" y="219" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="219"  text-anchor="middle">applies</tspan></text>
+</g>
+<g><!-- care plan -->
+<a xlink:href="care plan.svg" role="link"><rect x="584" y="180" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>dynamic, personalized plan including identified needed eligible social care activity, health objectives and care goals, relating to one or more specified health needs in a care process</title></rect><text x="638" y="195" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="195"  text-anchor="middle">care plan</tspan></text>
+</a></g>
+<g> <!-- Association care actor is responsible for sharable data repository -->
+<line x1="405" y1="265" x2="584" y2="265" stroke="black" stroke-width="2" /><text x="417" y="258" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="258"  text-anchor="middle">1..*</tspan></text>
+<text x="571" y="258" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="258"  text-anchor="middle">0..*</tspan></text>
+<text x="494" y="279" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="279"  text-anchor="middle">is responsible for</tspan></text>
+</g>
+<g><!-- sharable data repository -->
+<a xlink:href="sharable data repository.svg" role="link"><rect x="584" y="240" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>data repository containing exclusively electronic health record extracts, accessible for duly authorized care actors independent of their organizational affiliation and placed under the custody of a care actor</title></rect><text x="638" y="255" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="255"  text-anchor="middle">sharable data</tspan><tspan x="638" y="269"  text-anchor="middle">repository</tspan></text>
+</a></g>
+<g> <!-- Association care actor has observed observed condition -->
+<line x1="405" y1="325" x2="584" y2="325" stroke="black" stroke-width="2" /><text x="417" y="318" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="318"  text-anchor="middle">1..*</tspan></text>
+<text x="571" y="318" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="318"  text-anchor="middle">0..*</tspan></text>
+<text x="494" y="339" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="339"  text-anchor="middle">has observed</tspan></text>
+</g>
+<g><!-- observed condition -->
+<a xlink:href="observed condition.svg" role="link"><rect x="584" y="300" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>health condition observed by a care actor</title></rect><text x="638" y="315" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="315"  text-anchor="middle">observed</tspan><tspan x="638" y="329"  text-anchor="middle">condition</tspan></text>
+</a></g>
+<g> <!-- Association care actor provides care funds -->
+<line x1="405" y1="385" x2="584" y2="385" stroke="black" stroke-width="2" /><text x="417" y="378" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="378"  text-anchor="middle">0..*</tspan></text>
+<text x="571" y="378" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="378"  text-anchor="middle">0..*</tspan></text>
+<text x="494" y="399" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="399"  text-anchor="middle">provides</tspan></text>
+</g>
+<g><!-- care funds -->
+<a xlink:href="care funds.svg" role="link"><rect x="584" y="360" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>resource provided for funding care delivery</title></rect><text x="638" y="375" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="375"  text-anchor="middle">care funds</tspan></text>
+</a></g>
+<g> <!-- Association care actor is involved in continuity of care -->
+<line x1="405" y1="445" x2="584" y2="445" stroke="black" stroke-width="2" /><text x="417" y="438" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="438"  text-anchor="middle">1..*</tspan></text>
+<text x="571" y="438" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="438"  text-anchor="middle">0..*</tspan></text>
+<text x="494" y="459" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="459"  text-anchor="middle">is involved in</tspan></text>
+</g>
+<g><!-- continuity of care -->
+<a xlink:href="continuity of care.svg" role="link"><rect x="584" y="420" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>coherent and interconnected series of care events over time</title></rect><text x="638" y="435" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="435"  text-anchor="middle">continuity of</tspan><tspan x="638" y="449"  text-anchor="middle">care</tspan></text>
+</a></g>
+<g> <!-- Association care actor is responsible for automated care automated care -->
+<line x1="405" y1="505" x2="584" y2="505" stroke="black" stroke-width="2" /><text x="417" y="498" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="498"  text-anchor="middle">1</tspan></text>
+<text x="571" y="498" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="498"  text-anchor="middle">0..*</tspan></text>
+<text x="494" y="519" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="519"  text-anchor="middle">is responsible for automated</tspan><tspan x="494" y="533"  text-anchor="middle">care</tspan></text>
+</g>
+<g><!-- automated care -->
+<a xlink:href="automated care.svg" role="link"><rect x="584" y="480" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>care initiated by a responsible care actor and thereafter delivered automatically by an automatic medical device</title></rect><text x="638" y="495" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="495"  text-anchor="middle">automated care</tspan></text>
+</a></g>
+<g> <!-- Association care actor describes potential health condition -->
+<line x1="405" y1="565" x2="584" y2="565" stroke="black" stroke-width="2" /><text x="417" y="558" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="558"  text-anchor="middle">1..*</tspan></text>
+<text x="571" y="558" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="558"  text-anchor="middle">0..*</tspan></text>
+<text x="494" y="579" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="579"  text-anchor="middle">describes</tspan></text>
+</g>
+<g><!-- potential health condition -->
+<a xlink:href="potential health condition.svg" role="link"><rect x="584" y="540" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>possible future or current health condition described by a care actor</title></rect><text x="638" y="555" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="555"  text-anchor="middle">potential health</tspan><tspan x="638" y="569"  text-anchor="middle">condition</tspan></text>
+</a></g>
+<g> <!-- Association care actor performs care activity -->
+<line x1="405" y1="625" x2="584" y2="625" stroke="black" stroke-width="2" /><text x="417" y="618" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="618"  text-anchor="middle">1..*</tspan></text>
+<text x="571" y="618" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="618"  text-anchor="middle">0..*</tspan></text>
+<text x="494" y="639" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="639"  text-anchor="middle">performs</tspan></text>
+</g>
+<g><!-- care activity -->
+<a xlink:href="care activity.svg" role="link"><rect x="584" y="600" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>activity intended to improve or maintain a health state </title></rect><text x="638" y="615" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="615"  text-anchor="middle">care activity</tspan></text>
+</a></g>
+<g> <!-- Association care actor defines health thread -->
+<line x1="405" y1="685" x2="584" y2="685" stroke="black" stroke-width="2" /><text x="417" y="678" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="678"  text-anchor="middle">1..*</tspan></text>
+<text x="571" y="678" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="678"  text-anchor="middle">0..*</tspan></text>
+<text x="494" y="699" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="699"  text-anchor="middle">defines</tspan></text>
+</g>
+<g><!-- health thread -->
+<a xlink:href="health thread.svg" role="link"><rect x="584" y="660" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>defined association between care circumstances as determined by one or more care actors</title></rect><text x="638" y="675" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="675"  text-anchor="middle">health thread</tspan></text>
+</a></g>
+<g> <!-- Association care actor identifies health circumstance -->
+<line x1="405" y1="745" x2="584" y2="745" stroke="black" stroke-width="2" /><text x="417" y="738" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="738"  text-anchor="middle">1..*</tspan></text>
+<text x="571" y="738" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="738"  text-anchor="middle">0..*</tspan></text>
+<text x="494" y="759" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="759"  text-anchor="middle">identifies</tspan></text>
+</g>
+<g><!-- health circumstance -->
+<a xlink:href="health circumstance.svg" role="link"><rect x="584" y="720" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>circumstance contributing to the health state of a person</title></rect><text x="638" y="735" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="735"  text-anchor="middle">health</tspan><tspan x="638" y="749"  text-anchor="middle">circumstance</tspan></text>
+</a></g>
+<g> <!-- Association care actor sends out clinical report clinical report -->
+<line x1="405" y1="805" x2="584" y2="805" stroke="black" stroke-width="2" /><text x="417" y="798" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="798"  text-anchor="middle">1..*</tspan></text>
+<text x="571" y="798" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="798"  text-anchor="middle">0..*</tspan></text>
+<text x="494" y="819" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="819"  text-anchor="middle">sends out clinical report</tspan></text>
+</g>
+<g> <!-- Association care actor receives clinical report clinical report -->
+<line x1="405" y1="855" x2="584" y2="855" stroke="black" stroke-width="2" /><text x="417" y="848" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="848"  text-anchor="middle">1..*</tspan></text>
+<text x="571" y="848" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="848"  text-anchor="middle">0..*</tspan></text>
+<text x="494" y="869" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="869"  text-anchor="middle">receives clinical report</tspan></text>
+</g>
+<g><!-- clinical report -->
+<a xlink:href="clinical report.svg" role="link"><rect x="584" y="780" width="108" height="100" fill="whitesmoke" stroke="black" stroke-width="2" ><title>health record extract conveying specifically focused care information in order to fulfil current information needs of the recipient</title></rect><text x="638" y="795" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="795"  text-anchor="middle">clinical report</tspan></text>
+</a></g>
+<g> <!-- Association care actor expresses request for care -->
+<line x1="405" y1="915" x2="584" y2="915" stroke="black" stroke-width="2" /><text x="417" y="908" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="908"  text-anchor="middle">1..*</tspan></text>
+<text x="571" y="908" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="908"  text-anchor="middle">0..*</tspan></text>
+<text x="494" y="929" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="929"  text-anchor="middle">expresses</tspan></text>
+</g>
+<g><!-- request for care -->
+<a xlink:href="request for care.svg" role="link"><rect x="584" y="890" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>request for care provider activities expressed by a care actor</title></rect><text x="638" y="905" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="905"  text-anchor="middle">request for care</tspan></text>
+</a></g>
+<g> <!-- Association care actor makes decisions assisted by care guideline -->
+<line x1="405" y1="975" x2="584" y2="975" stroke="black" stroke-width="2" /><text x="417" y="968" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="968"  text-anchor="middle">0..*</tspan></text>
+<text x="571" y="968" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="571" y="968"  text-anchor="middle">0..*</tspan></text>
+<text x="494" y="989" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="989"  text-anchor="middle">makes decisions assisted by</tspan></text>
+</g>
+<g><!-- care guideline -->
+<a xlink:href="care guideline.svg" role="link"><rect x="584" y="950" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>set of systematically developed statements to assist the decisions made by care actors about care activities to be performed with regard to specified health circumstances </title></rect><text x="638" y="965" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="965"  text-anchor="middle">care guideline</tspan></text>
+</a></g>
+<g><!-- care actor -->
+<a xlink:href="care actor.svg" role="link"><rect x="297" y="10" width="108" height="1000" fill="white" stroke="black" stroke-width="2" ><title>organization or person participating in care</title></rect><text x="351" y="25" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="25"  text-anchor="middle">care actor</tspan></text>
+</a></g>
+<!-- (87,1087) to (351,1012) care third party has generalization care actor -->
+<line x1="87" y1="1087" x2="87" y2="1067" stroke="black" stroke-width="2" /><line x1="351" y1="1012" x2="351" y2="1067" stroke="black" stroke-width="2" /><line x1="87" y1="1067" x2="351" y2="1067" stroke="black" stroke-width="2" /><polygon points="351,1012 346,1022 356,1022" fill="white" stroke="black" stroke-width="2" /><g><!-- care third party -->
+<a xlink:href="care third party.svg" role="link"><rect x="33" y="1087" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>care actor other than a care provider or the subject of care</title></rect><text x="87" y="1102" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="87" y="1102"  text-anchor="middle">care third party</tspan></text>
+</a></g>
+<!-- (262,1087) to (351,1012) care provider has generalization care actor -->
+<line x1="262" y1="1087" x2="262" y2="1067" stroke="black" stroke-width="2" /><line x1="351" y1="1012" x2="351" y2="1067" stroke="black" stroke-width="2" /><line x1="262" y1="1067" x2="351" y2="1067" stroke="black" stroke-width="2" /><polygon points="351,1012 346,1022 356,1022" fill="white" stroke="black" stroke-width="2" /><g><!-- care provider -->
+<a xlink:href="care provider.svg" role="link"><rect x="208" y="1087" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>care actor that is able to be assigned one or more care period mandates</title></rect><text x="262" y="1102" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="262" y="1102"  text-anchor="middle">care provider</tspan></text>
+</a></g>
+<!-- (437,1087) to (351,1012) care personnel has generalization care actor -->
+<line x1="437" y1="1087" x2="437" y2="1067" stroke="black" stroke-width="2" /><line x1="351" y1="1012" x2="351" y2="1067" stroke="black" stroke-width="2" /><line x1="437" y1="1067" x2="351" y2="1067" stroke="black" stroke-width="2" /><polygon points="351,1012 346,1022 356,1022" fill="white" stroke="black" stroke-width="2" /><g><!-- care personnel -->
+<a xlink:href="care personnel.svg" role="link"><rect x="383" y="1087" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>person employed by a care organisation</title></rect><text x="437" y="1102" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="437" y="1102"  text-anchor="middle">care personnel</tspan></text>
+</a></g>
+<!-- (612,1087) to (351,1012) subject of care has generalization care actor -->
+<line x1="612" y1="1087" x2="612" y2="1067" stroke="black" stroke-width="2" /><line x1="351" y1="1012" x2="351" y2="1067" stroke="black" stroke-width="2" /><line x1="612" y1="1067" x2="351" y2="1067" stroke="black" stroke-width="2" /><polygon points="351,1012 346,1022 356,1022" fill="white" stroke="black" stroke-width="2" /><g><!-- subject of care -->
+<a xlink:href="subject of care.svg" role="link"><rect x="558" y="1087" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>person seeking to receive, receiving, or having received care</title></rect><text x="612" y="1102" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="612" y="1102"  text-anchor="middle">subject of care</tspan></text>
+</a></g>
+</svg>
