@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+  <title>UML Class Diagram Key Definitions</title>
+  <keydef keys='request mandate_svg' href='../images/request mandate_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='output health state_svg' href='../images/output health state_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='knowledge_svg' href='../images/knowledge_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='social care report_svg' href='../images/social care report_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='health state period_svg' href='../images/health state period_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care performer_svg' href='../images/care performer_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='clinical report_svg' href='../images/clinical report_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='health condition delay_svg' href='../images/health condition delay_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='prescribed third party activity_svg' href='../images/prescribed third party activity_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='section_svg' href='../images/section_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care period mandate_svg' href='../images/care period mandate_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='automated care_svg' href='../images/automated care_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care information request_svg' href='../images/care information request_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care information for import_svg' href='../images/care information for import_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='quality in care_svg' href='../images/quality in care_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='health need_svg' href='../images/health need_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='continuity facilitator mandate_svg' href='../images/continuity facilitator mandate_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='intended outcome_svg' href='../images/intended outcome_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='episode of care_svg' href='../images/episode of care_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care data_svg' href='../images/care data_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care third party_svg' href='../images/care third party_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='event_svg' href='../images/event_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='automatic medical device_svg' href='../images/automatic medical device_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='health condition_svg' href='../images/health condition_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='social need_svg' href='../images/social need_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='health thread_svg' href='../images/health thread_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='other carer_svg' href='../images/other carer_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='reason for request for care_svg' href='../images/reason for request for care_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='discharge report_svg' href='../images/discharge report_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='health state_svg' href='../images/health state_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care communication_svg' href='../images/care communication_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='target condition_svg' href='../images/target condition_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='tangible and visible entity_svg' href='../images/tangible and visible entity_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care documenting_svg' href='../images/care documenting_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care resource_svg' href='../images/care resource_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='health record component_svg' href='../images/health record component_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='data repository_svg' href='../images/data repository_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='non-ratified care information_svg' href='../images/non-ratified care information_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care treatment_svg' href='../images/care treatment_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care planning_svg' href='../images/care planning_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care evaluation_svg' href='../images/care evaluation_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='mandated period of care_svg' href='../images/mandated period of care_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='health circumstance_svg' href='../images/health circumstance_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='self-care period_svg' href='../images/self-care period_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='organization role_svg' href='../images/organization role_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='consent competence_svg' href='../images/consent competence_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='mandate to export personal information_svg' href='../images/mandate to export personal information_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='input health state_svg' href='../images/input health state_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='organization_svg' href='../images/organization_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care activity mandate_svg' href='../images/care activity mandate_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='risk condition_svg' href='../images/risk condition_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='electronic health record_svg' href='../images/electronic health record_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='prescriber_svg' href='../images/prescriber_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='informed consent_svg' href='../images/informed consent_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care administration_svg' href='../images/care administration_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='potential health condition_svg' href='../images/potential health condition_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care appointment_svg' href='../images/care appointment_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care provider_svg' href='../images/care provider_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='integrated care plan_svg' href='../images/integrated care plan_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='electronic health record extract_svg' href='../images/electronic health record extract_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='professionally assessed condition_svg' href='../images/professionally assessed condition_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='electronic patient summary_svg' href='../images/electronic patient summary_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='process model_svg' href='../images/process model_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='appointment_svg' href='../images/appointment_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='considered condition_svg' href='../images/considered condition_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care service directory_svg' href='../images/care service directory_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care supporting organization_svg' href='../images/care supporting organization_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care professional_svg' href='../images/care professional_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care activity management_svg' href='../images/care activity management_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='entry_svg' href='../images/entry_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='clinical process_svg' href='../images/clinical process_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='health condition assessment_svg' href='../images/health condition assessment_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care service_svg' href='../images/care service_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='initial contact_svg' href='../images/initial contact_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='protocol_svg' href='../images/protocol_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='medical device_svg' href='../images/medical device_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care third party activity_svg' href='../images/care third party activity_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care mandate_svg' href='../images/care mandate_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='commitment_svg' href='../images/commitment_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care provider activity_svg' href='../images/care provider activity_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care plan_svg' href='../images/care plan_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care employment_svg' href='../images/care employment_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='vulnerability_svg' href='../images/vulnerability_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='personal health record_svg' href='../images/personal health record_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='health problem_svg' href='../images/health problem_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care quality management_svg' href='../images/care quality management_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='discharge summary_svg' href='../images/discharge summary_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care organization_svg' href='../images/care organization_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care professional entitlement_svg' href='../images/care professional entitlement_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='risk_svg' href='../images/risk_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='specific care information request_svg' href='../images/specific care information request_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='health related period_svg' href='../images/health related period_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='mandate_svg' href='../images/mandate_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='item_svg' href='../images/item_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='subject of care desire_svg' href='../images/subject of care desire_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care assessment_svg' href='../images/care assessment_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='professional health record_svg' href='../images/professional health record_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care guideline_svg' href='../images/care guideline_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='authorization by law_svg' href='../images/authorization by law_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='medicine_svg' href='../images/medicine_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care_svg' href='../images/care_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='resource delay_svg' href='../images/resource delay_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care resource management_svg' href='../images/care resource management_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='party_svg' href='../images/party_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='working diagnosis_svg' href='../images/working diagnosis_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='referral_svg' href='../images/referral_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='mental object_svg' href='../images/mental object_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='health record_svg' href='../images/health record_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='person_svg' href='../images/person_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care personnel_svg' href='../images/care personnel_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='observed condition_svg' href='../images/observed condition_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='information_svg' href='../images/information_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care investigation_svg' href='../images/care investigation_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care information_svg' href='../images/care information_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care activity period_svg' href='../images/care activity period_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care goal_svg' href='../images/care goal_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='episodes of care bundle_svg' href='../images/episodes of care bundle_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='resource_svg' href='../images/resource_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care funds_svg' href='../images/care funds_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='health_svg' href='../images/health_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='request for service_svg' href='../images/request for service_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='needed care activities_svg' href='../images/needed care activities_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='person role_svg' href='../images/person role_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='indirect care activity period_svg' href='../images/indirect care activity period_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='subject of care proxy_svg' href='../images/subject of care proxy_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='core care plan_svg' href='../images/core care plan_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care activity assessment_svg' href='../images/care activity assessment_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='health issue_svg' href='../images/health issue_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='social care provider activity_svg' href='../images/social care provider activity_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care pathway_svg' href='../images/care pathway_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='information model_svg' href='../images/information model_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='health concern_svg' href='../images/health concern_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='unintended event_svg' href='../images/unintended event_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care commitment_svg' href='../images/care commitment_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='element_svg' href='../images/element_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='organizational pattern_svg' href='../images/organizational pattern_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='adverse event_svg' href='../images/adverse event_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='next of kin_svg' href='../images/next of kin_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care process evaluation_svg' href='../images/care process evaluation_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='objection_svg' href='../images/objection_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care needs assessment_svg' href='../images/care needs assessment_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='subject of care preference delay_svg' href='../images/subject of care preference delay_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care activity_svg' href='../images/care activity_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='prognostic condition_svg' href='../images/prognostic condition_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='sharable data repository_svg' href='../images/sharable data repository_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='data_svg' href='../images/data_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='self-care performer_svg' href='../images/self-care performer_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='summarized care information repository_svg' href='../images/summarized care information repository_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='contact_svg' href='../images/contact_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='health approach_svg' href='../images/health approach_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='self-care activity_svg' href='../images/self-care activity_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='social record extract_svg' href='../images/social record extract_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='composition_svg' href='../images/composition_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='stative_svg' href='../images/stative_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='contact period_svg' href='../images/contact period_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='adverse event management_svg' href='../images/adverse event management_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care process_svg' href='../images/care process_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care activities bundle_svg' href='../images/care activities bundle_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='resultant condition_svg' href='../images/resultant condition_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care actor_svg' href='../images/care actor_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='health problem list_svg' href='../images/health problem list_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='third party care performer_svg' href='../images/third party care performer_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='point of care_svg' href='../images/point of care_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='social determinants of health_svg' href='../images/social determinants of health_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='health record extract_svg' href='../images/health record extract_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='continuity of care_svg' href='../images/continuity of care_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='folder_svg' href='../images/folder_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='synonym_svg' href='../images/synonym_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='excluded condition_svg' href='../images/excluded condition_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='request for initial contact_svg' href='../images/request for initial contact_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='care activity delay_svg' href='../images/care activity delay_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='request for care_svg' href='../images/request for care_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='subject of care_svg' href='../images/subject of care_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='cluster_svg' href='../images/cluster_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='role_svg' href='../images/role_(uml_representation).svg' format='svg' scope='local' />
+  <keydef keys='prescribed self-care_svg' href='../images/prescribed self-care_(uml_representation).svg' format='svg' scope='local' />
+</map>
