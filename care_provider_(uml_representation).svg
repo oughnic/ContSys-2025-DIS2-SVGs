@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 702 1102" aria-labelledby="title desc" role="img"><title id="title">UML Class Diagram of care provider and related concepts</title><desc  id="desc">An UML Class Diagram of the concept care provider and the concepts related to it.</desc><!-- Generalisations of the Focal Class care provider
  -->
 <g><!-- care actor -->
-<a xlink:href="../care-actor.html" role="link"><rect x="297" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>organization or person participating in care</title></rect><text x="351" y="25" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="25"  text-anchor="middle">care actor</tspan></text>
+<a xlink:href="../concept/care-actor.html" role="link"><rect x="297" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>organization or person participating in care</title></rect><text x="351" y="25" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="25"  text-anchor="middle">care actor</tspan></text>
 </a></g>
 <!-- (351,135) to (351,62) care provider has generalization care actor -->
 <line x1="351" y1="135" x2="351" y2="115" stroke="black" stroke-width="2" /><line x1="351" y1="62" x2="351" y2="115" stroke="black" stroke-width="2" /><line x1="351" y1="115" x2="351" y2="115" stroke="black" stroke-width="2" /><polygon points="351,62 346,72 356,72" fill="white" stroke="black" stroke-width="2" /><g> <!-- Association care provider offers care service -->
@@ -10,7 +10,7 @@
 <text x="494" y="174" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="174"  text-anchor="middle">offers</tspan></text>
 </g>
 <g><!-- care service -->
-<a xlink:href="../care-service.html" role="link"><rect x="584" y="135" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>set of care activities offered by care provider</title></rect><text x="638" y="150" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="150"  text-anchor="middle">care service</tspan></text>
+<a xlink:href="../concept/care-service.html" role="link"><rect x="584" y="135" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>set of care activities offered by care provider</title></rect><text x="638" y="150" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="150"  text-anchor="middle">care service</tspan></text>
 </a></g>
 <g> <!-- Association care provider delivers care provider activity -->
 <line x1="405" y1="230" x2="584" y2="230" stroke="black" stroke-width="2" /><text x="417" y="223" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="223"  text-anchor="middle">1..*</tspan></text>
@@ -18,7 +18,7 @@
 <text x="494" y="244" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="244"  text-anchor="middle">delivers</tspan></text>
 </g>
 <g><!-- care provider activity -->
-<a xlink:href="../care-provider-activity.html" role="link"><rect x="584" y="205" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>care activity performed by a care provider</title></rect><text x="638" y="220" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="220"  text-anchor="middle">care provider</tspan><tspan x="638" y="234"  text-anchor="middle">activity</tspan></text>
+<a xlink:href="../concept/care-provider-activity.html" role="link"><rect x="584" y="205" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>care activity performed by a care provider</title></rect><text x="638" y="220" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="220"  text-anchor="middle">care provider</tspan><tspan x="638" y="234"  text-anchor="middle">activity</tspan></text>
 </a></g>
 <g> <!-- Association care provider is responsible for professional health record professional health record -->
 <line x1="405" y1="290" x2="584" y2="290" stroke="black" stroke-width="2" /><text x="417" y="283" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="283"  text-anchor="middle">1..*</tspan></text>
@@ -26,7 +26,7 @@
 <text x="494" y="304" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="304"  text-anchor="middle">is responsible for professional</tspan><tspan x="494" y="318"  text-anchor="middle">health record</tspan></text>
 </g>
 <g><!-- professional health record -->
-<a xlink:href="../professional-health-record.html" role="link"><rect x="584" y="265" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>health record held under the responsibility of one care provider and maintained by one or several care professionals </title></rect><text x="638" y="280" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="280"  text-anchor="middle">professional</tspan><tspan x="638" y="294"  text-anchor="middle">health record</tspan></text>
+<a xlink:href="../concept/professional-health-record.html" role="link"><rect x="584" y="265" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>health record held under the responsibility of one care provider and maintained by one or several care professionals </title></rect><text x="638" y="280" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="280"  text-anchor="middle">professional</tspan><tspan x="638" y="294"  text-anchor="middle">health record</tspan></text>
 </a></g>
 <g> <!-- Association care provider states care commitment -->
 <line x1="405" y1="350" x2="584" y2="350" stroke="black" stroke-width="2" /><text x="417" y="343" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="343"  text-anchor="middle">1..*</tspan></text>
@@ -34,7 +34,7 @@
 <text x="494" y="364" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="364"  text-anchor="middle">states</tspan></text>
 </g>
 <g><!-- care commitment -->
-<a xlink:href="../care-commitment.html" role="link"><rect x="584" y="325" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>acceptance of a care request</title></rect><text x="638" y="340" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="340"  text-anchor="middle">care</tspan><tspan x="638" y="354"  text-anchor="middle">commitment</tspan></text>
+<a xlink:href="../concept/care-commitment.html" role="link"><rect x="584" y="325" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>acceptance of a care request</title></rect><text x="638" y="340" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="340"  text-anchor="middle">care</tspan><tspan x="638" y="354"  text-anchor="middle">commitment</tspan></text>
 </a></g>
 <g> <!-- Association care provider has care service directory -->
 <line x1="405" y1="410" x2="584" y2="410" stroke="black" stroke-width="2" /><text x="417" y="403" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="403"  text-anchor="middle">1</tspan></text>
@@ -42,7 +42,7 @@
 <text x="494" y="424" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="424"  text-anchor="middle">has</tspan></text>
 </g>
 <g><!-- care service directory -->
-<a xlink:href="../care-service-directory.html" role="link"><rect x="584" y="385" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>directory of the types of care services offered by one or more care providers</title></rect><text x="638" y="400" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="400"  text-anchor="middle">care service</tspan><tspan x="638" y="414"  text-anchor="middle">directory</tspan></text>
+<a xlink:href="../concept/care-service-directory.html" role="link"><rect x="584" y="385" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>directory of the types of care services offered by one or more care providers</title></rect><text x="638" y="400" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="400"  text-anchor="middle">care service</tspan><tspan x="638" y="414"  text-anchor="middle">directory</tspan></text>
 </a></g>
 <g> <!-- Association care provider causes resource delay -->
 <line x1="405" y1="470" x2="584" y2="470" stroke="black" stroke-width="2" /><text x="417" y="463" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="463"  text-anchor="middle">1..*</tspan></text>
@@ -50,7 +50,7 @@
 <text x="494" y="484" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="484"  text-anchor="middle">causes</tspan></text>
 </g>
 <g><!-- resource delay -->
-<a xlink:href="../resource-delay.html" role="link"><rect x="584" y="445" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>care activity delay caused by resource constraints</title></rect><text x="638" y="460" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="460"  text-anchor="middle">resource delay</tspan></text>
+<a xlink:href="../concept/resource-delay.html" role="link"><rect x="584" y="445" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>care activity delay caused by resource constraints</title></rect><text x="638" y="460" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="460"  text-anchor="middle">resource delay</tspan></text>
 </a></g>
 <g> <!-- Association care provider accepts or declines request for care -->
 <line x1="405" y1="530" x2="584" y2="530" stroke="black" stroke-width="2" /><text x="417" y="523" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="523"  text-anchor="middle">0..*</tspan></text>
@@ -63,7 +63,7 @@
 <text x="494" y="594" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="594"  text-anchor="middle">receives</tspan></text>
 </g>
 <g><!-- request for care -->
-<a xlink:href="../request-for-care.html" role="link"><rect x="584" y="505" width="108" height="100" fill="whitesmoke" stroke="black" stroke-width="2" ><title>request for care provider activities expressed by a care actor</title></rect><text x="638" y="520" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="520"  text-anchor="middle">request for care</tspan></text>
+<a xlink:href="../concept/request-for-care.html" role="link"><rect x="584" y="505" width="108" height="100" fill="whitesmoke" stroke="black" stroke-width="2" ><title>request for care provider activities expressed by a care actor</title></rect><text x="638" y="520" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="520"  text-anchor="middle">request for care</tspan></text>
 </a></g>
 <g> <!-- Association care provider is able to be assigned care period mandate -->
 <line x1="405" y1="640" x2="584" y2="640" stroke="black" stroke-width="2" /><text x="417" y="633" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="633"  text-anchor="middle">1..*</tspan></text>
@@ -71,7 +71,7 @@
 <text x="494" y="654" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="654"  text-anchor="middle">is able to be assigned</tspan></text>
 </g>
 <g><!-- care period mandate -->
-<a xlink:href="../care-period-mandate.html" role="link"><rect x="584" y="615" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>care mandate commissioning a mandated period of care</title></rect><text x="638" y="630" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="630"  text-anchor="middle">care period</tspan><tspan x="638" y="644"  text-anchor="middle">mandate</tspan></text>
+<a xlink:href="../concept/care-period-mandate.html" role="link"><rect x="584" y="615" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>care mandate commissioning a mandated period of care</title></rect><text x="638" y="630" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="630"  text-anchor="middle">care period</tspan><tspan x="638" y="644"  text-anchor="middle">mandate</tspan></text>
 </a></g>
 <g> <!-- Association care provider manages episode of care -->
 <line x1="405" y1="700" x2="584" y2="700" stroke="black" stroke-width="2" /><text x="417" y="693" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="693"  text-anchor="middle">1..*</tspan></text>
@@ -79,7 +79,7 @@
 <text x="494" y="714" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="714"  text-anchor="middle">manages</tspan></text>
 </g>
 <g><!-- episode of care -->
-<a xlink:href="../episode-of-care.html" role="link"><rect x="584" y="675" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>health related period during which care activities are performed to address one health issue as identified by one care professional</title></rect><text x="638" y="690" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="690"  text-anchor="middle">episode of care</tspan></text>
+<a xlink:href="../concept/episode-of-care.html" role="link"><rect x="584" y="675" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>health related period during which care activities are performed to address one health issue as identified by one care professional</title></rect><text x="638" y="690" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="690"  text-anchor="middle">episode of care</tspan></text>
 </a></g>
 <g> <!-- Association care provider does care resource management -->
 <line x1="405" y1="760" x2="584" y2="760" stroke="black" stroke-width="2" /><text x="417" y="753" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="753"  text-anchor="middle">1..*</tspan></text>
@@ -87,7 +87,7 @@
 <text x="494" y="774" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="774"  text-anchor="middle">does</tspan></text>
 </g>
 <g><!-- care resource management -->
-<a xlink:href="../care-resource-management.html" role="link"><rect x="584" y="735" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>activities to direct and control the supply and use of the care resources required to perform care activities</title></rect><text x="638" y="750" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="750"  text-anchor="middle">care resource</tspan><tspan x="638" y="764"  text-anchor="middle">management</tspan></text>
+<a xlink:href="../concept/care-resource-management.html" role="link"><rect x="584" y="735" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>activities to direct and control the supply and use of the care resources required to perform care activities</title></rect><text x="638" y="750" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="750"  text-anchor="middle">care resource</tspan><tspan x="638" y="764"  text-anchor="middle">management</tspan></text>
 </a></g>
 <g> <!-- Association care provider has care period mandate for mandated period of care -->
 <line x1="405" y1="820" x2="584" y2="820" stroke="black" stroke-width="2" /><text x="417" y="813" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="813"  text-anchor="middle">1..*</tspan></text>
@@ -100,7 +100,7 @@
 <text x="494" y="884" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="884"  text-anchor="middle">is responsible for</tspan></text>
 </g>
 <g><!-- mandated period of care -->
-<a xlink:href="../mandated-period-of-care.html" role="link"><rect x="584" y="795" width="108" height="100" fill="whitesmoke" stroke="black" stroke-width="2" ><title>set of care activity periods where a care provider is mandated to perform the care activities required to address specific health needs</title></rect><text x="638" y="810" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="810"  text-anchor="middle">mandated</tspan><tspan x="638" y="824"  text-anchor="middle">period of care</tspan></text>
+<a xlink:href="../concept/mandated-period-of-care.html" role="link"><rect x="584" y="795" width="108" height="100" fill="whitesmoke" stroke="black" stroke-width="2" ><title>set of care activity periods where a care provider is mandated to perform the care activities required to address specific health needs</title></rect><text x="638" y="810" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="810"  text-anchor="middle">mandated</tspan><tspan x="638" y="824"  text-anchor="middle">period of care</tspan></text>
 </a></g>
 <g> <!-- Association care provider arranges initial contact -->
 <line x1="405" y1="930" x2="584" y2="930" stroke="black" stroke-width="2" /><text x="417" y="923" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="923"  text-anchor="middle">1..*</tspan></text>
@@ -108,17 +108,17 @@
 <text x="494" y="944" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="944"  text-anchor="middle">arranges</tspan></text>
 </g>
 <g><!-- initial contact -->
-<a xlink:href="../initial-contact.html" role="link"><rect x="584" y="905" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>contact during which a clinical process is initiated</title></rect><text x="638" y="920" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="920"  text-anchor="middle">initial contact</tspan></text>
+<a xlink:href="../concept/initial-contact.html" role="link"><rect x="584" y="905" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>contact during which a clinical process is initiated</title></rect><text x="638" y="920" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="920"  text-anchor="middle">initial contact</tspan></text>
 </a></g>
 <g><!-- care provider -->
-<a xlink:href="../care-provider.html" role="link"><rect x="297" y="135" width="108" height="830" fill="white" stroke="black" stroke-width="2" ><title>care actor that is able to be assigned one or more care period mandates</title></rect><text x="351" y="150" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="150"  text-anchor="middle">care provider</tspan></text>
+<a xlink:href="../concept/care-provider.html" role="link"><rect x="297" y="135" width="108" height="830" fill="white" stroke="black" stroke-width="2" ><title>care actor that is able to be assigned one or more care period mandates</title></rect><text x="351" y="150" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="150"  text-anchor="middle">care provider</tspan></text>
 </a></g>
 <!-- (175,1042) to (351,967) care organization has generalization care provider -->
 <line x1="175" y1="1042" x2="175" y2="1022" stroke="black" stroke-width="2" /><line x1="351" y1="967" x2="351" y2="1022" stroke="black" stroke-width="2" /><line x1="175" y1="1022" x2="351" y2="1022" stroke="black" stroke-width="2" /><polygon points="351,967 346,977 356,977" fill="white" stroke="black" stroke-width="2" /><g><!-- care organization -->
-<a xlink:href="../care-organization.html" role="link"><rect x="121" y="1042" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>organisation being a care provider</title></rect><text x="175" y="1057" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="175" y="1057"  text-anchor="middle">care</tspan><tspan x="175" y="1071"  text-anchor="middle">organization</tspan></text>
+<a xlink:href="../concept/care-organization.html" role="link"><rect x="121" y="1042" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>organisation being a care provider</title></rect><text x="175" y="1057" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="175" y="1057"  text-anchor="middle">care</tspan><tspan x="175" y="1071"  text-anchor="middle">organization</tspan></text>
 </a></g>
 <!-- (526,1042) to (351,967) care personnel has generalization care provider -->
 <line x1="526" y1="1042" x2="526" y2="1022" stroke="black" stroke-width="2" /><line x1="351" y1="967" x2="351" y2="1022" stroke="black" stroke-width="2" /><line x1="526" y1="1022" x2="351" y2="1022" stroke="black" stroke-width="2" /><polygon points="351,967 346,977 356,977" fill="white" stroke="black" stroke-width="2" /><g><!-- care personnel -->
-<a xlink:href="../care-personnel.html" role="link"><rect x="472" y="1042" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>person employed by a care organisation</title></rect><text x="526" y="1057" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="526" y="1057"  text-anchor="middle">care personnel</tspan></text>
+<a xlink:href="../concept/care-personnel.html" role="link"><rect x="472" y="1042" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>person employed by a care organisation</title></rect><text x="526" y="1057" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="526" y="1057"  text-anchor="middle">care personnel</tspan></text>
 </a></g>
 </svg>

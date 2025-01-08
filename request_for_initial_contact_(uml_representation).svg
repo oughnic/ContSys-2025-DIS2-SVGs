@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 702 207" aria-labelledby="title desc" role="img"><title id="title">UML Class Diagram of request for initial contact and related concepts</title><desc  id="desc">An UML Class Diagram of the concept request for initial contact and the concepts related to it.</desc><!-- Generalisations of the Focal Class request for initial contact
  -->
 <g><!-- request for care -->
-<a xlink:href="../request-for-care.html" role="link"><rect x="297" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>request for care provider activities expressed by a care actor</title></rect><text x="351" y="25" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="25"  text-anchor="middle">request for care</tspan></text>
+<a xlink:href="../concept/request-for-care.html" role="link"><rect x="297" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>request for care provider activities expressed by a care actor</title></rect><text x="351" y="25" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="25"  text-anchor="middle">request for care</tspan></text>
 </a></g>
 <!-- (351,135) to (351,62) request for initial contact has generalization request for care -->
 <line x1="351" y1="135" x2="351" y2="115" stroke="black" stroke-width="2" /><line x1="351" y1="62" x2="351" y2="115" stroke="black" stroke-width="2" /><line x1="351" y1="115" x2="351" y2="115" stroke="black" stroke-width="2" /><polygon points="351,62 346,72 356,72" fill="white" stroke="black" stroke-width="2" /><g> <!-- Association request for initial contact results in initial contact -->
@@ -10,9 +10,9 @@
 <text x="494" y="184" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="184"  text-anchor="middle">results in</tspan></text>
 </g>
 <g><!-- initial contact -->
-<a xlink:href="../initial-contact.html" role="link"><rect x="584" y="145" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>contact during which a clinical process is initiated</title></rect><text x="638" y="160" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="160"  text-anchor="middle">initial contact</tspan></text>
+<a xlink:href="../concept/initial-contact.html" role="link"><rect x="584" y="145" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>contact during which a clinical process is initiated</title></rect><text x="638" y="160" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="160"  text-anchor="middle">initial contact</tspan></text>
 </a></g>
 <g><!-- request for initial contact -->
-<a xlink:href="../request-for-initial-contact.html" role="link"><rect x="297" y="135" width="108" height="70" fill="white" stroke="black" stroke-width="2" ><title>first request for care concerning one or more specific health circumstances to be assessed by a care provider</title></rect><text x="351" y="150" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="150"  text-anchor="middle">request for</tspan><tspan x="351" y="164"  text-anchor="middle">initial contact</tspan></text>
+<a xlink:href="../concept/request-for-initial-contact.html" role="link"><rect x="297" y="135" width="108" height="70" fill="white" stroke="black" stroke-width="2" ><title>first request for care concerning one or more specific health circumstances to be assessed by a care provider</title></rect><text x="351" y="150" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="150"  text-anchor="middle">request for</tspan><tspan x="351" y="164"  text-anchor="middle">initial contact</tspan></text>
 </a></g>
 </svg>
