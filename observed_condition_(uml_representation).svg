@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 702 572" aria-labelledby="title desc" role="img"><title id="title">UML Class Diagram of observed condition and related concepts</title><desc  id="desc">An UML Class Diagram of the concept observed condition and the concepts related to it.</desc><!-- Generalisations of the Focal Class observed condition
  -->
 <g><!-- health condition -->
-<a xlink:href="..health-condition.html" role="link"><rect x="297" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>aspect of a health state</title></rect><text x="351" y="25" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="25"  text-anchor="middle">health condition</tspan></text>
+<a xlink:href="health-condition.html" role="link"><rect x="297" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>aspect of a health state</title></rect><text x="351" y="25" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="25"  text-anchor="middle">health condition</tspan></text>
 </a></g>
 <!-- (351,135) to (351,62) observed condition has generalization health condition -->
 <line x1="351" y1="135" x2="351" y2="115" stroke="black" stroke-width="2" /><line x1="351" y1="62" x2="351" y2="115" stroke="black" stroke-width="2" /><line x1="351" y1="115" x2="351" y2="115" stroke="black" stroke-width="2" /><polygon points="351,62 346,72 356,72" fill="white" stroke="black" stroke-width="2" /><g> <!-- Association considered condition is based on observed condition -->
@@ -11,7 +11,7 @@
 
 </g>
 <g><!-- considered condition -->
-<a xlink:href="..considered-condition.html" role="link"><rect x="10" y="135" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>potential health condition considered by a care actor on the basis of one or more observed conditions</title></rect><text x="64" y="150" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="150"  text-anchor="middle">considered</tspan><tspan x="64" y="164"  text-anchor="middle">condition</tspan></text>
+<a xlink:href="considered-condition.html" role="link"><rect x="10" y="135" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>potential health condition considered by a care actor on the basis of one or more observed conditions</title></rect><text x="64" y="150" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="150"  text-anchor="middle">considered</tspan><tspan x="64" y="164"  text-anchor="middle">condition</tspan></text>
 </a></g>
 <g> <!-- Association working diagnosis is consistent with observed condition -->
 <line x1="118" y1="220" x2="297" y2="220" stroke="black" stroke-width="2" /><text x="130" y="213" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="213"  text-anchor="middle">0..*</tspan></text>
@@ -20,7 +20,7 @@
 
 </g>
 <g><!-- working diagnosis -->
-<a xlink:href="..working-diagnosis.html" role="link"><rect x="10" y="195" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>considered condition that one or more care professionals have determined to be the most consistent with observed conditions</title></rect><text x="64" y="210" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="210"  text-anchor="middle">working</tspan><tspan x="64" y="224"  text-anchor="middle">diagnosis</tspan></text>
+<a xlink:href="working-diagnosis.html" role="link"><rect x="10" y="195" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>considered condition that one or more care professionals have determined to be the most consistent with observed conditions</title></rect><text x="64" y="210" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="210"  text-anchor="middle">working</tspan><tspan x="64" y="224"  text-anchor="middle">diagnosis</tspan></text>
 </a></g>
 <g> <!-- Association care investigation reveals observed condition -->
 <line x1="118" y1="280" x2="297" y2="280" stroke="black" stroke-width="2" /><text x="130" y="273" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="273"  text-anchor="middle">0..*</tspan></text>
@@ -29,7 +29,7 @@
 
 </g>
 <g><!-- care investigation -->
-<a xlink:href="..care-investigation.html" role="link"><rect x="10" y="255" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>care activity with the intention to clarify one or more health conditions of a subject of care</title></rect><text x="64" y="270" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="270"  text-anchor="middle">care</tspan><tspan x="64" y="284"  text-anchor="middle">investigation</tspan></text>
+<a xlink:href="care-investigation.html" role="link"><rect x="10" y="255" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>care activity with the intention to clarify one or more health conditions of a subject of care</title></rect><text x="64" y="270" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="270"  text-anchor="middle">care</tspan><tspan x="64" y="284"  text-anchor="middle">investigation</tspan></text>
 </a></g>
 <g> <!-- Association care actor has observed observed condition -->
 <line x1="118" y1="340" x2="297" y2="340" stroke="black" stroke-width="2" /><text x="130" y="333" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="333"  text-anchor="middle">1..*</tspan></text>
@@ -38,7 +38,7 @@
 
 </g>
 <g><!-- care actor -->
-<a xlink:href="..care-actor.html" role="link"><rect x="10" y="315" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>organization or person participating in care</title></rect><text x="64" y="330" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="330"  text-anchor="middle">care actor</tspan></text>
+<a xlink:href="care-actor.html" role="link"><rect x="10" y="315" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>organization or person participating in care</title></rect><text x="64" y="330" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="330"  text-anchor="middle">care actor</tspan></text>
 </a></g>
 <g> <!-- Association excluded condition is not consistent with observed condition -->
 <line x1="118" y1="400" x2="297" y2="400" stroke="black" stroke-width="2" /><text x="130" y="393" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="130" y="393"  text-anchor="middle">0..*</tspan></text>
@@ -47,7 +47,7 @@
 
 </g>
 <g><!-- excluded condition -->
-<a xlink:href="..excluded-condition.html" role="link"><rect x="10" y="375" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>considered condition that one or more care professionals have determined not to be consistent with the known observed conditions</title></rect><text x="64" y="390" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="390"  text-anchor="middle">excluded</tspan><tspan x="64" y="404"  text-anchor="middle">condition</tspan></text>
+<a xlink:href="excluded-condition.html" role="link"><rect x="10" y="375" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>considered condition that one or more care professionals have determined not to be consistent with the known observed conditions</title></rect><text x="64" y="390" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="64" y="390"  text-anchor="middle">excluded</tspan><tspan x="64" y="404"  text-anchor="middle">condition</tspan></text>
 </a></g>
 <g> <!-- Association observed condition has been observed during health state period -->
 <line x1="405" y1="170" x2="584" y2="170" stroke="black" stroke-width="2" /><text x="417" y="163" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="417" y="163"  text-anchor="middle">1..*</tspan></text>
@@ -55,13 +55,13 @@
 <text x="494" y="184" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="494" y="184"  text-anchor="middle">has been observed during</tspan></text>
 </g>
 <g><!-- health state period -->
-<a xlink:href="..health-state-period.html" role="link"><rect x="584" y="145" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>health related period during which a health condition has been observed</title></rect><text x="638" y="160" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="160"  text-anchor="middle">health state</tspan><tspan x="638" y="174"  text-anchor="middle">period</tspan></text>
+<a xlink:href="health-state-period.html" role="link"><rect x="584" y="145" width="108" height="50" fill="whitesmoke" stroke="black" stroke-width="2" ><title>health related period during which a health condition has been observed</title></rect><text x="638" y="160" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="638" y="160"  text-anchor="middle">health state</tspan><tspan x="638" y="174"  text-anchor="middle">period</tspan></text>
 </a></g>
 <g><!-- observed condition -->
-<a xlink:href="..observed-condition.html" role="link"><rect x="297" y="135" width="108" height="300" fill="white" stroke="black" stroke-width="2" ><title>health condition observed by a care actor</title></rect><text x="351" y="150" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="150"  text-anchor="middle">observed</tspan><tspan x="351" y="164"  text-anchor="middle">condition</tspan></text>
+<a xlink:href="observed-condition.html" role="link"><rect x="297" y="135" width="108" height="300" fill="white" stroke="black" stroke-width="2" ><title>health condition observed by a care actor</title></rect><text x="351" y="150" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="150"  text-anchor="middle">observed</tspan><tspan x="351" y="164"  text-anchor="middle">condition</tspan></text>
 </a></g>
 <!-- (351,512) to (351,437) professionally assessed condition has generalization observed condition -->
 <line x1="351" y1="512" x2="351" y2="492" stroke="black" stroke-width="2" /><line x1="351" y1="437" x2="351" y2="492" stroke="black" stroke-width="2" /><line x1="351" y1="492" x2="351" y2="492" stroke="black" stroke-width="2" /><polygon points="351,437 346,447 356,447" fill="white" stroke="black" stroke-width="2" /><g><!-- professionally assessed condition -->
-<a xlink:href="..professionally-assessed-condition.html" role="link"><rect x="297" y="512" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>observed condition assessed by a care professional</title></rect><text x="351" y="527" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="527"  text-anchor="middle">professionally</tspan><tspan x="351" y="541"  text-anchor="middle">assessed</tspan><tspan x="351" y="555"  text-anchor="middle">condition</tspan></text>
+<a xlink:href="professionally-assessed-condition.html" role="link"><rect x="297" y="512" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>observed condition assessed by a care professional</title></rect><text x="351" y="527" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="527"  text-anchor="middle">professionally</tspan><tspan x="351" y="541"  text-anchor="middle">assessed</tspan><tspan x="351" y="555"  text-anchor="middle">condition</tspan></text>
 </a></g>
 </svg>

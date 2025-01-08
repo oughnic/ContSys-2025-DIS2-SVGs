@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 702 187" aria-labelledby="title desc" role="img"><title id="title">UML Class Diagram of ELEMENT and related concepts</title><desc  id="desc">An UML Class Diagram of the concept ELEMENT and the concepts related to it.</desc><!-- Generalisations of the Focal Class ELEMENT
  -->
 <g><!-- ITEM -->
-<a xlink:href="..ITEM.html" role="link"><rect x="297" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>abstract structure component that holds all properties common for clusters and elements</title></rect><text x="351" y="25" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="25"  text-anchor="middle">ITEM</tspan></text>
+<a xlink:href="ITEM.html" role="link"><rect x="297" y="10" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>abstract structure component that holds all properties common for clusters and elements</title></rect><text x="351" y="25" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="25"  text-anchor="middle">ITEM</tspan></text>
 </a></g>
 <!-- (351,135) to (351,62) ELEMENT has generalization ITEM -->
 <line x1="351" y1="135" x2="351" y2="115" stroke="black" stroke-width="2" /><line x1="351" y1="62" x2="351" y2="115" stroke="black" stroke-width="2" /><line x1="351" y1="115" x2="351" y2="115" stroke="black" stroke-width="2" /><polygon points="351,62 346,72 356,72" fill="white" stroke="black" stroke-width="2" /><g><!-- ELEMENT -->
-<a xlink:href="..ELEMENT.html" role="link"><rect x="297" y="135" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>electronic health record component within an entry or cluster containing a single data value</title></rect><text x="351" y="150" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="150"  text-anchor="middle">ELEMENT</tspan></text>
+<a xlink:href="ELEMENT.html" role="link"><rect x="297" y="135" width="108" height="50" fill="white" stroke="black" stroke-width="2" ><title>electronic health record component within an entry or cluster containing a single data value</title></rect><text x="351" y="150" text-anchor="middle" font-family="Cambria" font-size="12" fill="black"><tspan x="351" y="150"  text-anchor="middle">ELEMENT</tspan></text>
 </a></g>
 </svg>
