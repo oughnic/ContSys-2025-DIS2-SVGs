@@ -1,4 +1,4 @@
-# Mermaid siagrams of the generalisations
+# Mermaid diagrams of the generalisations
 ## care activities bundle
 ```mermaid
 classDiagram
