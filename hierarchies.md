@@ -2,6 +2,7 @@
 ## care activities bundle
 ```mermaid
 classDiagram
+    direction BT
     class f7c3ea77-77bc-403e-a234-d8853f947f40 ["care activities bundle"]
     
     class 7087a642-bce6-4afa-b543-619a7ee8a1b0 ["needed care activity"]
@@ -12,6 +13,7 @@ classDiagram
 ## care activity
 ```mermaid
 classDiagram
+    direction BT
     class 9db96600-9f5a-4eed-b7e0-a2fa180bdd9d ["care activity"]
     
     class dc07fff5-a43b-4864-b6e0-09c653fe0385 ["adverse event management"]
@@ -73,6 +75,7 @@ classDiagram
 ## care actor
 ```mermaid
 classDiagram
+    direction BT
     class b40f06bf-cff4-4b6a-a07e-422c6929e50a ["care actor"]
     
     class 06aff740-4b76-407d-b907-2a2378203748 ["care personnel"]
@@ -108,6 +111,7 @@ classDiagram
 ## care contact
 ```mermaid
 classDiagram
+    direction BT
     class 067b6a61-761f-4227-97fe-0b83a4088b6d ["care contact"]
     
     class d4482e7d-9caa-447c-843e-0ad469283fdd ["initial contact"]
@@ -118,6 +122,7 @@ classDiagram
 ## care plan
 ```mermaid
 classDiagram
+    direction BT
     class 3a36d00e-d3f4-499b-b1f6-11b461697c1d ["care plan"]
     
     class d8f95456-5163-4d07-be21-2937a283b730 ["clinical care plan"]
@@ -134,6 +139,7 @@ classDiagram
 ## care process
 ```mermaid
 classDiagram
+    direction BT
     class aba83851-1d98-4834-a505-5b6a242f6196 ["care process"]
     
     class 85e33cbb-082b-465c-a759-fd823e8843b9 ["continuity of care process"]
@@ -144,6 +150,7 @@ classDiagram
 ## data
 ```mermaid
 classDiagram
+    direction BT
     class a4d70b96-866c-4b00-aac1-b6f97bf553bf ["data"]
     
     class 7ad6ad2a-5670-48ad-9d7f-837f5b175cef ["care data"]
@@ -154,6 +161,7 @@ classDiagram
 ## event
 ```mermaid
 classDiagram
+    direction BT
     class 4fb8d6e6-9dbe-4216-8230-db34618e9052 ["event"]
     
     class 9e661cb5-c2d2-4981-97d8-581ea3617964 ["unintended event"]
@@ -167,6 +175,7 @@ classDiagram
 ## health condition
 ```mermaid
 classDiagram
+    direction BT
     class c7d287a0-fb7e-40aa-9893-d75944a15925 ["health condition"]
     
     class 7c9ffd22-c613-4047-b4f8-3ff7944cb48a ["health issue"]
@@ -220,6 +229,7 @@ classDiagram
 ## health condition period
 ```mermaid
 classDiagram
+    direction BT
     class fb9badce-a5b0-4364-91d2-baac708af7b3 ["health condition period"]
     
     class 91bfe09c-b8a5-4e5f-b2e7-1789e979544b ["health condition delay"]
@@ -230,6 +240,7 @@ classDiagram
 ## health need
 ```mermaid
 classDiagram
+    direction BT
     class 63183c6f-89fb-4f4d-8baf-c91933afde12 ["health need"]
     
     class dd48858e-ef50-400e-a2d1-3dd44764d3d4 ["social need"]
@@ -240,6 +251,7 @@ classDiagram
 ## health record extract
 ```mermaid
 classDiagram
+    direction BT
     class 094a2bf2-4a84-4dcc-8d99-51324cb57791 ["health record extract"]
     
     class 65e0cf86-ea28-4273-a3c1-e455ee906445 ["electronic health record extract"]
@@ -275,6 +287,7 @@ classDiagram
 ## health related period
 ```mermaid
 classDiagram
+    direction BT
     class de7ec2b2-e96c-43b8-839c-d511f32bcc0e ["health related period"]
     
     class e946367a-cbe7-492e-9759-f2eed680dae4 ["care activity delay"]
@@ -315,6 +328,7 @@ classDiagram
 ## health state
 ```mermaid
 classDiagram
+    direction BT
     class 8dcfa7b1-75be-4297-bb6f-6aad0335f01d ["health state"]
     
     class a9954d0f-3f32-4a6f-b54f-4840359b16bb ["input health state"]
@@ -328,6 +342,7 @@ classDiagram
 ## health thread
 ```mermaid
 classDiagram
+    direction BT
     class 3ed9937d-d711-4b45-8e2f-24aff2fbb98e ["health thread"]
     
     class 653143ec-e071-446b-a373-de0107056c4e ["health problem list"]
@@ -338,6 +353,7 @@ classDiagram
 ## information
 ```mermaid
 classDiagram
+    direction BT
     class afd4fd52-d30a-494f-bacb-1535ec193f1f ["information"]
     
     class 0e8398d8-c793-4a48-9d0b-6f62f67e1dc4 ["care information"]
@@ -378,6 +394,7 @@ classDiagram
 ## knowledge
 ```mermaid
 classDiagram
+    direction BT
     class 0a17809e-be0d-4637-8a2f-0aae4d4bb7da ["knowledge"]
     
     class 665a81e6-8241-4d63-84e0-bbfb1001c51d ["care guideline"]
@@ -400,6 +417,7 @@ classDiagram
 ## mandate
 ```mermaid
 classDiagram
+    direction BT
     class d9484351-8f6a-4cab-ad92-b844eee8ccd2 ["mandate"]
     
     class 820f67b6-f718-4c09-a097-6d16be2a5b16 ["care employment"]
@@ -443,6 +461,7 @@ classDiagram
 ## request for care
 ```mermaid
 classDiagram
+    direction BT
     class 161d6d94-732e-4524-9b7d-ad2abb6f740d ["request for care"]
     
     class c7be98e2-1e86-4ddb-a301-3f4548137194 ["initial request for care"]
@@ -462,6 +481,7 @@ classDiagram
 ## resource
 ```mermaid
 classDiagram
+    direction BT
     class 72e2d618-17f5-41eb-ad97-39726338fccc ["resource"]
     
     class 2c026a2e-4093-4a99-bf3b-3c9a9738e57c ["care funds"]
@@ -517,6 +537,7 @@ classDiagram
 ## role
 ```mermaid
 classDiagram
+    direction BT
     class faae5d89-dbed-4ce7-8312-cf44671ef8a9 ["role"]
     
     class f9f68904-81d6-4f42-9efe-41843fd1f3de ["organization role"]
@@ -548,6 +569,7 @@ classDiagram
 ## subject of care desire
 ```mermaid
 classDiagram
+    direction BT
     class 174db6b0-8561-4c33-a5f6-18d0eee999d2 ["subject of care desire"]
     
     class 92b51f00-0b80-4169-98e8-148e43bd9bdc ["objection"]
